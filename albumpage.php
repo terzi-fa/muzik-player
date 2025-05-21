@@ -37,6 +37,10 @@ $songs_result = $songs->get_result();
   <link rel='stylesheet' href='css/style.css'>
 </head>
 <body>
+  <div class="header">
+    <img src="images/logo.png" alt="Logo" class="header-logo">
+    <span class="header-title">Harmony DB</span>
+  </div>
   <div class='album-box'>
     <h2><?= htmlspecialchars($album_name) ?></h2>
     <img src='<?= htmlspecialchars($album_image) ?>' alt='' width='120'><br>

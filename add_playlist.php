@@ -103,6 +103,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <div class="header">
+    <img src="images/logo.png" alt="Logo" class="header-logo">
+    <span class="header-title">Harmony DB</span>
+  </div>
   <div class="container">
     <h2>Yeni Playlist Ekle</h2>
     <?php if($error): ?><p class="error-message"><?= htmlspecialchars($error) ?></p><?php endif; ?>

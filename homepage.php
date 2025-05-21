@@ -94,6 +94,10 @@ $ast->bind_result($aid, $an, $al, $ai);
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <div class="header">
+    <img src="images/logo.png" alt="Logo" class="header-logo">
+    <span class="header-title">Harmony DB</span>
+  </div>
   <h1>Merhaba, <?=htmlspecialchars($name)?>!</h1>
   <div class="container">
     <!-- Sol: Playlistler -->

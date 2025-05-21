@@ -78,9 +78,13 @@ $songs = $mysqli->query("
   <style>/* homepage ile aynı stil */</style>
 </head>
 <body>
-  <div class="artist-box">
+  <div class="header">
+    <img src="images/logo.png" alt="Logo" class="header-logo">
+    <span class="header-title">Harmony DB</span>
+  </div>
+  <div class="music-box">
     <h2><?= htmlspecialchars($an) ?></h2>
-    <img src="<?= htmlspecialchars($img) ?>" alt=""><br>
+    <img src="<?= htmlspecialchars($img) ?>" alt="" style="max-width:180px;"><br><br>
     <b>Ülke:</b> <?= htmlspecialchars($cn) ?><br>
     <b>Tür:</b> <?= htmlspecialchars($gen) ?><br>
     <b>Katılım:</b> <?= $dj ?><br>

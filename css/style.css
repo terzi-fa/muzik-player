@@ -14,14 +14,16 @@
   }
   body {
     font-family: Arial, sans-serif;
-    background: #f4f6fb;
-    color: #2d3a4b;
+    background: #3F0D7E !important;
+    background-image: none !important;
+    color: #fff !important;
+    min-height: 100vh;
     line-height: 1.5;
   }
   
   /* Links */
   a {
-    color: #2563eb;
+    color: #aeeaff !important;
     text-decoration: none;
   }
   a:hover {
@@ -33,9 +35,9 @@
     display: flex;
     max-width: 1100px;
     margin: 40px auto;
-    background: #fff;
+    background: rgba(0,0,0,0.55) !important;
     border-radius: 16px;
-    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 24px rgba(0,0,0,0.7);
     overflow: hidden;
   }
   .left,
@@ -51,6 +53,10 @@
   }
   
   /* Headings */
+  h1, h2, h3, h4, h5, h6, label, p, span, th, td {
+    color: #fff !important;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.85);
+  }
   h1 {
     font-size: 2rem;
     margin: 24px 0 16px;
@@ -80,12 +86,13 @@
     font-size: 0.9rem;
   }
   .search-input::placeholder {
-    color: #94a3b8;
+    color: #e0e0e0 !important;
   }
   .add-button {
-    background: #3b82f6;
-    color: #fff;
-    border: none;
+    background: #6F4DF5 !important;
+    color: #fff !important;
+    border: none !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     border-radius: 6px;
     width: 36px;
     height: 36px;
@@ -97,15 +104,16 @@
     transition: background 0.2s;
   }
   .add-button:hover {
-    background: #2563eb;
+    background: #C67ACE !important;
   }
   
   /* Buttons */
   button,
   .plus-btn {
-    background: #3b82f6;
-    color: #fff;
-    border: none;
+    background: #6F4DF5 !important;
+    color: #fff !important;
+    border: none !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     border-radius: 6px;
     cursor: pointer;
     transition: background 0.2s;
@@ -113,7 +121,7 @@
   }
   button:hover,
   .plus-btn:hover {
-    background: #2563eb;
+    background: #C67ACE !important;
   }
   .plus-btn {
     font-size: 1.25rem;
@@ -173,9 +181,9 @@
     max-width: 800px;
     margin: 40px auto;
     padding: 24px;
-    background: #fff;
+    background: rgba(0,0,0,0.55) !important;
     border-radius: 16px;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    box-shadow: 0 4px 24px rgba(0,0,0,0.7);
   }
   .music-box img,
   .artist-box img {
@@ -211,15 +219,16 @@
   }
   .add-song-form button {
     padding: 8px 16px;
-    background: #3b82f6;
-    color: white;
-    border: none;
+    background: #6F4DF5 !important;
+    color: #fff !important;
+    border: none !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     border-radius: 6px;
     cursor: pointer;
     transition: background 0.2s;
   }
   .add-song-form button:hover {
-    background: #2563eb;
+    background: #C67ACE !important;
   }
   .error-message {
     color: #dc2626;
@@ -254,9 +263,10 @@
     margin: 0;
   }
   .sql-button {
-    background: #3b82f6;
-    color: white;
-    border: none;
+    background: #6F4DF5 !important;
+    color: #fff !important;
+    border: none !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     border-radius: 6px;
     padding: 8px 16px;
     font-size: 0.9rem;
@@ -264,7 +274,7 @@
     transition: background 0.2s;
   }
   .sql-button:hover {
-    background: #2563eb;
+    background: #C67ACE !important;
   }
   .custom-sql-form {
     margin-bottom: 16px;
@@ -280,9 +290,10 @@
     resize: vertical;
   }
   .execute-button {
-    background: #059669;
-    color: white;
-    border: none;
+    background: #6F4DF5 !important;
+    color: #fff !important;
+    border: none !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     border-radius: 6px;
     padding: 8px 16px;
     font-size: 0.9rem;
@@ -290,7 +301,7 @@
     transition: background 0.2s;
   }
   .execute-button:hover {
-    background: #047857;
+    background: #C67ACE !important;
   }
   .result-container {
     margin-top: 16px;
@@ -349,15 +360,16 @@
   
   .add-form button {
     padding: 8px 16px;
-    background: #3b82f6;
-    color: white;
-    border: none;
+    background: #6F4DF5 !important;
+    color: #fff !important;
+    border: none !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     border-radius: 4px;
     cursor: pointer;
   }
   
   .add-form button:hover {
-    background: #2563eb;
+    background: #C67ACE !important;
   }
   
   .data-table {
@@ -370,6 +382,38 @@
     border: 1px solid #e0e7ef;
     padding: 8px;
     text-align: left;
+  }
+  
+  .header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 18px 32px 0 32px;
+    box-sizing: border-box;
+  }
+  
+  .header-logo {
+    height: 40px;
+    width: 40px;
+    object-fit: contain;
+    margin-right: 12px;
+  }
+  
+  .header-title {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: 1px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+  }
+  
+  /* Homepage özel butonları */
+  .homepage-btn {
+    background: #C67ACE !important;
+    color: #fff !important;
+    border: none !important;
   }
   
   

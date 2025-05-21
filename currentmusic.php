@@ -37,9 +37,13 @@ $mysqli->query("
 <head>
   <meta charset="UTF-8">
   <title><?= htmlspecialchars($title) ?></title>
-  <style>/* homepage ile aynı stil */</style>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <div class="header">
+    <img src="images/logo.png" alt="Logo" class="header-logo">
+    <span class="header-title">Harmony DB</span>
+  </div>
   <div class="music-box">
     <h2><?= htmlspecialchars($title) ?></h2>
     <img src="<?= htmlspecialchars($img) ?>" alt=""><br><br>
