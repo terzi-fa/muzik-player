@@ -1,0 +1,148 @@
+Pop
+Rock
+Türkçe Rock
+Türkçe Pop
+Hip Hop
+Rap
+R&B
+Soul
+Jazz
+Blues
+Klasik
+Elektronik
+Dance
+House
+Techno
+Trance
+Reggae
+Country
+Folk
+Türk Halk Müziği
+Türk Sanat Müziği
+Arabesk
+Fantezi
+Türkçe Rap
+Alternatif Rock
+Indie
+Metal
+Heavy Metal
+Punk
+Grunge
+Funk
+Disco
+Latino
+Flamenco
+Tango
+Bossa Nova
+Samba
+Opera
+Operet
+Müzikal
+Film Müziği
+Oyun Müziği
+Ambient
+Lounge
+Chillout
+Downtempo
+Trip Hop
+Dubstep
+Drum and Bass
+Garage
+Grime
+Trap
+Drill
+Afrobeat
+Highlife
+Soukous
+Makossa
+Kizomba
+Kuduro
+Tarantella
+Fado
+Rebetiko
+Sirtaki
+Zeybek
+Horon
+Halay
+Bengi
+Bar
+Sürmeli
+Karşılama
+Misket 
+Trakya havaları
+Anadolu Rock
+Alternatif
+Progressive
+Psychedelic
+Hard Rock
+Black Metal
+Death Metal
+Thrash Metal
+Power Metal
+Folk Metal
+Symphonic Metal
+Gothic Metal
+Doom Metal
+Post-Rock
+Math Rock
+Shoegaze
+Dream Pop
+Indie Pop
+Indie Rock
+Indie Folk
+Indie Electronic
+Indie Dance
+Indie R&B
+Indie Hip Hop
+Indie Soul
+Indie Jazz
+Indie Blues
+Indie Country
+Indie Classical
+Indie World
+Indie Experimental
+Indie Avant-garde
+Indie Progressive
+Indie Psychedelic
+Indie Shoegaze
+Indie Dream Pop
+Indie Ambient
+Indie Lo-Fi
+Indie Chill
+Indie Dance Pop
+Indie Electronic Pop
+Indie Pop Rock
+Indie Folk Rock
+Indie Alternative
+Indie Progressive Rock
+Indie Psychedelic Rock
+Indie Shoegaze Rock
+Indie Dream Pop Rock
+Indie Ambient Rock
+Indie Lo-Fi Rock
+Indie Chill Rock
+Indie Dance Rock
+Indie Electronic Rock
+Indie Pop Folk
+Indie Rock Folk
+Indie Alternative Folk
+Indie Progressive Folk
+Indie Psychedelic Folk
+Indie Shoegaze Folk
+Indie Dream Pop Folk
+Indie Ambient Folk
+Indie Lo-Fi Folk
+Indie Chill Folk
+Indie Dance Folk
+Indie Electronic Folk
+Indie Pop Electronic
+Indie Rock Electronic
+Indie Alternative Electronic
+Indie Progressive Electronic
+Indie Psychedelic Electronic
+Indie Shoegaze Electronic
+Indie Dream Pop Electronic
+Indie Ambient Electronic
+Indie Lo-Fi Electronic
+Indie Chill Electronic
+Indie Dance Electronic

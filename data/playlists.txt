@@ -1,0 +1,200 @@
+1,1,Türkçe Pop Klasikleri,Türk pop müziğinin en sevilen şarkıları,2023-01-01,playlist1.jpg
+2,2,90'lar Nostaljisi,90'lı yılların unutulmaz şarkıları,2023-01-02,playlist2.jpg
+3,3,Rock Antolojisi,En iyi rock şarkıları,2023-01-03,playlist3.jpg
+4,4,Sezen Aksu Koleksiyonu,Sezen Aksu'nun tüm hit şarkıları,2023-01-04,playlist4.jpg
+5,5,Tarkan En İyileri,Tarkan'ın en sevilen şarkıları,2023-01-05,playlist5.jpg
+6,6,Kenan Doğulu Seçkisi,Kenan Doğulu'nun en iyi şarkıları,2023-01-06,playlist6.jpg
+7,7,Hadise Hitleri,Hadise'nin en sevilen şarkıları,2023-01-07,playlist7.jpg
+8,8,Mabel Matiz Koleksiyonu,Mabel Matiz'in tüm şarkıları,2023-01-08,playlist8.jpg
+9,9,Murat Boz En İyileri,Murat Boz'un en sevilen şarkıları,2023-01-09,playlist9.jpg
+10,10,MFÖ Klasikleri,MFÖ'nün unutulmaz şarkıları,2023-01-10,playlist10.jpg
+11,11,Barış Manço Seçkisi,Barış Manço'nun en iyi şarkıları,2023-01-11,playlist11.jpg
+12,12,Cem Karaca Koleksiyonu,Cem Karaca'nın tüm şarkıları,2023-01-12,playlist12.jpg
+13,13,Erkin Koray En İyileri,Erkin Koray'ın en sevilen şarkıları,2023-01-13,playlist13.jpg
+14,14,Moğollar Klasikleri,Moğollar'ın unutulmaz şarkıları,2023-01-14,playlist14.jpg
+15,15,3 Hürel Seçkisi,3 Hürel'in en iyi şarkıları,2023-01-15,playlist15.jpg
+16,16,Barış Akarsu Koleksiyonu,Barış Akarsu'nun tüm şarkıları,2023-01-16,playlist16.jpg
+17,17,Teoman En İyileri,Teoman'ın en sevilen şarkıları,2023-01-17,playlist17.jpg
+18,18,Mor ve Ötesi Klasikleri,Mor ve Ötesi'nin unutulmaz şarkıları,2023-01-18,playlist18.jpg
+19,19,Athena Seçkisi,Athena'nın en iyi şarkıları,2023-01-19,playlist19.jpg
+20,20,Şebnem Ferah Koleksiyonu,Şebnem Ferah'ın tüm şarkıları,2023-01-20,playlist20.jpg
+21,21,Çilekeş En İyileri,Çilekeş'in en sevilen şarkıları,2023-01-21,playlist21.jpg
+22,22,Gece Yolcuları Klasikleri,Gece Yolcuları'nın unutulmaz şarkıları,2023-01-22,playlist22.jpg
+23,23,Model Seçkisi,Model'in en iyi şarkıları,2023-01-23,playlist23.jpg
+24,24,Athena Koleksiyonu,Athena'nın tüm şarkıları,2023-01-24,playlist24.jpg
+25,25,Şebnem Ferah En İyileri,Şebnem Ferah'ın en sevilen şarkıları,2023-01-25,playlist25.jpg
+26,26,Çilekeş Klasikleri,Çilekeş'in unutulmaz şarkıları,2023-01-26,playlist26.jpg
+27,27,Gece Yolcuları Seçkisi,Gece Yolcuları'nın en iyi şarkıları,2023-01-27,playlist27.jpg
+28,28,Model Koleksiyonu,Model'in tüm şarkıları,2023-01-28,playlist28.jpg
+29,29,Athena En İyileri,Athena'nın en sevilen şarkıları,2023-01-29,playlist29.jpg
+30,30,Şebnem Ferah Klasikleri,Şebnem Ferah'ın unutulmaz şarkıları,2023-01-30,playlist30.jpg
+31,31,Çilekeş Seçkisi,Çilekeş'in en iyi şarkıları,2023-01-31,playlist31.jpg
+32,32,Gece Yolcuları Koleksiyonu,Gece Yolcuları'nın tüm şarkıları,2023-02-01,playlist32.jpg
+33,33,Model En İyileri,Model'in en sevilen şarkıları,2023-02-02,playlist33.jpg
+34,34,Athena Klasikleri,Athena'nın unutulmaz şarkıları,2023-02-03,playlist34.jpg
+35,35,Şebnem Ferah Seçkisi,Şebnem Ferah'ın en iyi şarkıları,2023-02-04,playlist35.jpg
+36,36,Çilekeş Koleksiyonu,Çilekeş'in tüm şarkıları,2023-02-05,playlist36.jpg
+37,37,Gece Yolcuları En İyileri,Gece Yolcuları'nın en sevilen şarkıları,2023-02-06,playlist37.jpg
+38,38,Model Klasikleri,Model'in unutulmaz şarkıları,2023-02-07,playlist38.jpg
+39,39,Athena Seçkisi,Athena'nın en iyi şarkıları,2023-02-08,playlist39.jpg
+40,40,Şebnem Ferah Koleksiyonu,Şebnem Ferah'ın tüm şarkıları,2023-02-09,playlist40.jpg
+41,41,Çilekeş En İyileri,Çilekeş'in en sevilen şarkıları,2023-02-10,playlist41.jpg
+42,42,Gece Yolcuları Klasikleri,Gece Yolcuları'nın unutulmaz şarkıları,2023-02-11,playlist42.jpg
+43,43,Model Seçkisi,Model'in en iyi şarkıları,2023-02-12,playlist43.jpg
+44,44,Athena Koleksiyonu,Athena'nın tüm şarkıları,2023-02-13,playlist44.jpg
+45,45,Şebnem Ferah En İyileri,Şebnem Ferah'ın en sevilen şarkıları,2023-02-14,playlist45.jpg
+46,46,Çilekeş Klasikleri,Çilekeş'in unutulmaz şarkıları,2023-02-15,playlist46.jpg
+47,47,Gece Yolcuları Seçkisi,Gece Yolcuları'nın en iyi şarkıları,2023-02-16,playlist47.jpg
+48,48,Model Koleksiyonu,Model'in tüm şarkıları,2023-02-17,playlist48.jpg
+49,49,Athena En İyileri,Athena'nın en sevilen şarkıları,2023-02-18,playlist49.jpg
+50,50,Şebnem Ferah Klasikleri,Şebnem Ferah'ın unutulmaz şarkıları,2023-02-19,playlist50.jpg
+51,51,Çilekeş Seçkisi,Çilekeş'in en iyi şarkıları,2023-02-20,playlist51.jpg
+52,52,Gece Yolcuları Koleksiyonu,Gece Yolcuları'nın tüm şarkıları,2023-02-21,playlist52.jpg
+53,53,Model En İyileri,Model'in en sevilen şarkıları,2023-02-22,playlist53.jpg
+54,54,Athena Klasikleri,Athena'nın unutulmaz şarkıları,2023-02-23,playlist54.jpg
+55,55,Şebnem Ferah Seçkisi,Şebnem Ferah'ın en iyi şarkıları,2023-02-24,playlist55.jpg
+56,56,Çilekeş Koleksiyonu,Çilekeş'in tüm şarkıları,2023-02-25,playlist56.jpg
+57,57,Gece Yolcuları En İyileri,Gece Yolcuları'nın en sevilen şarkıları,2023-02-26,playlist57.jpg
+58,58,Model Klasikleri,Model'in unutulmaz şarkıları,2023-02-27,playlist58.jpg
+59,59,Athena Seçkisi,Athena'nın en iyi şarkıları,2023-02-28,playlist59.jpg
+60,60,Şebnem Ferah Koleksiyonu,Şebnem Ferah'ın tüm şarkıları,2023-03-01,playlist60.jpg
+61,61,Çilekeş En İyileri,Çilekeş'in en sevilen şarkıları,2023-03-02,playlist61.jpg
+62,62,Gece Yolcuları Klasikleri,Gece Yolcuları'nın unutulmaz şarkıları,2023-03-03,playlist62.jpg
+63,63,Model Seçkisi,Model'in en iyi şarkıları,2023-03-04,playlist63.jpg
+64,64,Athena Koleksiyonu,Athena'nın tüm şarkıları,2023-03-05,playlist64.jpg
+65,65,Şebnem Ferah En İyileri,Şebnem Ferah'ın en sevilen şarkıları,2023-03-06,playlist65.jpg
+66,66,Çilekeş Klasikleri,Çilekeş'in unutulmaz şarkıları,2023-03-07,playlist66.jpg
+67,67,Gece Yolcuları Seçkisi,Gece Yolcuları'nın en iyi şarkıları,2023-03-08,playlist67.jpg
+68,68,Model Koleksiyonu,Model'in tüm şarkıları,2023-03-09,playlist68.jpg
+69,69,Athena En İyileri,Athena'nın en sevilen şarkıları,2023-03-10,playlist69.jpg
+70,70,Şebnem Ferah Klasikleri,Şebnem Ferah'ın unutulmaz şarkıları,2023-03-11,playlist70.jpg
+71,71,Çilekeş Seçkisi,Çilekeş'in en iyi şarkıları,2023-03-12,playlist71.jpg
+72,72,Gece Yolcuları Koleksiyonu,Gece Yolcuları'nın tüm şarkıları,2023-03-13,playlist72.jpg
+73,73,Model En İyileri,Model'in en sevilen şarkıları,2023-03-14,playlist73.jpg
+74,74,Athena Klasikleri,Athena'nın unutulmaz şarkıları,2023-03-15,playlist74.jpg
+75,75,Şebnem Ferah Seçkisi,Şebnem Ferah'ın en iyi şarkıları,2023-03-16,playlist75.jpg
+76,76,Çilekeş Koleksiyonu,Çilekeş'in tüm şarkıları,2023-03-17,playlist76.jpg
+77,77,Gece Yolcuları En İyileri,Gece Yolcuları'nın en sevilen şarkıları,2023-03-18,playlist77.jpg
+78,78,Model Klasikleri,Model'in unutulmaz şarkıları,2023-03-19,playlist78.jpg
+79,79,Athena Seçkisi,Athena'nın en iyi şarkıları,2023-03-20,playlist79.jpg
+80,80,Şebnem Ferah Koleksiyonu,Şebnem Ferah'ın tüm şarkıları,2023-03-21,playlist80.jpg
+81,81,Çilekeş En İyileri,Çilekeş'in en sevilen şarkıları,2023-03-22,playlist81.jpg
+82,82,Gece Yolcuları Klasikleri,Gece Yolcuları'nın unutulmaz şarkıları,2023-03-23,playlist82.jpg
+83,83,Model Seçkisi,Model'in en iyi şarkıları,2023-03-24,playlist83.jpg
+84,84,Athena Koleksiyonu,Athena'nın tüm şarkıları,2023-03-25,playlist84.jpg
+85,85,Şebnem Ferah En İyileri,Şebnem Ferah'ın en sevilen şarkıları,2023-03-26,playlist85.jpg
+86,86,Çilekeş Klasikleri,Çilekeş'in unutulmaz şarkıları,2023-03-27,playlist86.jpg
+87,87,Gece Yolcuları Seçkisi,Gece Yolcuları'nın en iyi şarkıları,2023-03-28,playlist87.jpg
+88,88,Model Koleksiyonu,Model'in tüm şarkıları,2023-03-29,playlist88.jpg
+89,89,Athena En İyileri,Athena'nın en sevilen şarkıları,2023-03-30,playlist89.jpg
+90,90,Şebnem Ferah Klasikleri,Şebnem Ferah'ın unutulmaz şarkıları,2023-03-31,playlist90.jpg
+91,91,Çilekeş Seçkisi,Çilekeş'in en iyi şarkıları,2023-04-01,playlist91.jpg
+92,92,Gece Yolcuları Koleksiyonu,Gece Yolcuları'nın tüm şarkıları,2023-04-02,playlist92.jpg
+93,93,Model En İyileri,Model'in en sevilen şarkıları,2023-04-03,playlist93.jpg
+94,94,Athena Klasikleri,Athena'nın unutulmaz şarkıları,2023-04-04,playlist94.jpg
+95,95,Şebnem Ferah Seçkisi,Şebnem Ferah'ın en iyi şarkıları,2023-04-05,playlist95.jpg
+96,96,Çilekeş Koleksiyonu,Çilekeş'in tüm şarkıları,2023-04-06,playlist96.jpg
+97,97,Gece Yolcuları En İyileri,Gece Yolcuları'nın en sevilen şarkıları,2023-04-07,playlist97.jpg
+98,98,Model Klasikleri,Model'in unutulmaz şarkıları,2023-04-08,playlist98.jpg
+99,99,Athena Seçkisi,Athena'nın en iyi şarkıları,2023-04-09,playlist99.jpg
+100,100,Şebnem Ferah Koleksiyonu,Şebnem Ferah'ın tüm şarkıları,2023-04-10,playlist100.jpg
+201,45,Yaz Hitleri,Yaz aylarının en sevilen şarkıları,2023-04-11,playlist201.jpg
+202,67,Kış Nostaljisi,Kış aylarının unutulmaz şarkıları,2023-04-12,playlist202.jpg
+203,23,Bahar Şarkıları,Bahar mevsiminin en güzel şarkıları,2023-04-13,playlist203.jpg
+204,89,Sonbahar Koleksiyonu,Sonbaharın hüzünlü şarkıları,2023-04-14,playlist204.jpg
+205,12,Sevgililer Günü,En romantik aşk şarkıları,2023-04-15,playlist205.jpg
+206,34,Anneler Günü,Anneler için özel şarkılar,2023-04-16,playlist206.jpg
+207,56,Babalar Günü,Babalar için özel şarkılar,2023-04-17,playlist207.jpg
+208,78,Yılbaşı Şarkıları,Yılbaşı coşkusunu yaşatan şarkılar,2023-04-18,playlist208.jpg
+209,90,Bayram Koleksiyonu,Bayram şarkıları,2023-04-19,playlist209.jpg
+210,13,Mezuniyet Şarkıları,Mezuniyet törenlerinin vazgeçilmez şarkıları,2023-04-20,playlist210.jpg
+211,35,Düğün Şarkıları,Düğünlerin en çok çalınan şarkıları,2023-04-21,playlist211.jpg
+212,57,Parti Müzikleri,Partilerin vazgeçilmez şarkıları,2023-04-22,playlist212.jpg
+213,79,Spor Şarkıları,Spor müsabakalarında çalınan şarkılar,2023-04-23,playlist213.jpg
+214,91,Yolculuk Şarkıları,Yolculuklarda dinlenen şarkılar,2023-04-24,playlist214.jpg
+215,14,Kahvaltı Müzikleri,Kahvaltı keyfi için şarkılar,2023-04-25,playlist215.jpg
+216,36,Akşam Yemeği,Akşam yemeği için romantik şarkılar,2023-04-26,playlist216.jpg
+217,58,Kahve Keyfi,Kahve içerken dinlenen şarkılar,2023-04-27,playlist217.jpg
+218,80,Çalışma Müzikleri,Çalışırken dinlenen şarkılar,2023-04-28,playlist218.jpg
+219,92,Spor Müzikleri,Spor yaparken dinlenen şarkılar,2023-04-29,playlist219.jpg
+220,15,Uyku Müzikleri,Uyumadan önce dinlenen şarkılar,2023-04-30,playlist220.jpg
+221,37,Meditasyon,Meditasyon için özel şarkılar,2023-05-01,playlist221.jpg
+222,59,Yoga Müzikleri,Yoga yaparken dinlenen şarkılar,2023-05-02,playlist222.jpg
+223,81,Masaj Müzikleri,Masaj yaparken dinlenen şarkılar,2023-05-03,playlist223.jpg
+224,93,Doğa Sesleri,Doğa sesleri ve rahatlatıcı müzikler,2023-05-04,playlist224.jpg
+225,16,Deniz Kenarı,Deniz kenarında dinlenen şarkılar,2023-05-05,playlist225.jpg
+226,38,Dağ Yürüyüşü,Dağ yürüyüşünde dinlenen şarkılar,2023-05-06,playlist226.jpg
+227,60,Orman Yürüyüşü,Orman yürüyüşünde dinlenen şarkılar,2023-05-07,playlist227.jpg
+228,82,Şehir Turu,Şehir turunda dinlenen şarkılar,2023-05-08,playlist228.jpg
+229,94,Kamp Müzikleri,Kamp yaparken dinlenen şarkılar,2023-05-09,playlist229.jpg
+230,17,Piknik Şarkıları,Piknikte dinlenen şarkılar,2023-05-10,playlist230.jpg
+231,39,Barbekü Partisi,Barbekü partisinde çalınan şarkılar,2023-05-11,playlist231.jpg
+232,61,Plaj Partisi,Plaj partisinde çalınan şarkılar,2023-05-12,playlist232.jpg
+233,83,Havuz Partisi,Havuz partisinde çalınan şarkılar,2023-05-13,playlist233.jpg
+234,95,Yat Partisi,Yat partisinde çalınan şarkılar,2023-05-14,playlist234.jpg
+235,18,Kulüp Gecesi,Kulüpte çalınan şarkılar,2023-05-15,playlist235.jpg
+236,40,Bar Gecesi,Barda çalınan şarkılar,2023-05-16,playlist236.jpg
+237,62,Pub Gecesi,Pub'da çalınan şarkılar,2023-05-17,playlist237.jpg
+238,84,Restoran Müzikleri,Restoranda çalınan şarkılar,2023-05-18,playlist238.jpg
+239,96,Kafe Müzikleri,Kafede çalınan şarkılar,2023-05-19,playlist239.jpg
+240,19,Sinema Müzikleri,En iyi film müzikleri,2023-05-20,playlist240.jpg
+241,41,Dizi Müzikleri,En iyi dizi müzikleri,2023-05-21,playlist241.jpg
+242,63,Belgesel Müzikleri,En iyi belgesel müzikleri,2023-05-22,playlist242.jpg
+243,85,Çizgi Film Müzikleri,En iyi çizgi film müzikleri,2023-05-23,playlist243.jpg
+244,97,Animasyon Müzikleri,En iyi animasyon müzikleri,2023-05-24,playlist244.jpg
+245,20,Oyun Müzikleri,En iyi oyun müzikleri,2023-05-25,playlist245.jpg
+246,42,Retro Oyunlar,Retro oyun müzikleri,2023-05-26,playlist246.jpg
+247,64,Modern Oyunlar,Modern oyun müzikleri,2023-05-27,playlist247.jpg
+248,86,Mobil Oyunlar,Mobil oyun müzikleri,2023-05-28,playlist248.jpg
+249,98,Konsol Oyunları,Konsol oyun müzikleri,2023-05-29,playlist249.jpg
+250,21,PC Oyunları,PC oyun müzikleri,2023-05-30,playlist250.jpg
+251,43,Strateji Oyunları,Strateji oyun müzikleri,2023-05-31,playlist251.jpg
+252,65,Aksiyon Oyunları,Aksiyon oyun müzikleri,2023-06-01,playlist252.jpg
+253,87,RPG Oyunları,RPG oyun müzikleri,2023-06-02,playlist253.jpg
+254,99,Macera Oyunları,Macera oyun müzikleri,2023-06-03,playlist254.jpg
+255,22,Simülasyon Oyunları,Simülasyon oyun müzikleri,2023-06-04,playlist255.jpg
+256,44,Spor Oyunları,Spor oyun müzikleri,2023-06-05,playlist256.jpg
+257,66,Yarış Oyunları,Yarış oyun müzikleri,2023-06-06,playlist257.jpg
+258,88,Dövüş Oyunları,Dövüş oyun müzikleri,2023-06-07,playlist258.jpg
+259,100,Gizem Oyunları,Gizem oyun müzikleri,2023-06-08,playlist259.jpg
+260,23,Korku Oyunları,Korku oyun müzikleri,2023-06-09,playlist260.jpg
+261,45,Bilim Kurgu Oyunları,Bilim kurgu oyun müzikleri,2023-06-10,playlist261.jpg
+262,67,Fantastik Oyunlar,Fantastik oyun müzikleri,2023-06-11,playlist262.jpg
+263,89,Orta Çağ Oyunları,Orta Çağ oyun müzikleri,2023-06-12,playlist263.jpg
+264,24,Uzay Oyunları,Uzay oyun müzikleri,2023-06-13,playlist264.jpg
+265,46,Deniz Oyunları,Deniz oyun müzikleri,2023-06-14,playlist265.jpg
+266,68,Dağ Oyunları,Dağ oyun müzikleri,2023-06-15,playlist266.jpg
+267,90,Orman Oyunları,Orman oyun müzikleri,2023-06-16,playlist267.jpg
+268,25,Şehir Oyunları,Şehir oyun müzikleri,2023-06-17,playlist268.jpg
+269,47,Köy Oyunları,Köy oyun müzikleri,2023-06-18,playlist269.jpg
+270,69,Çöl Oyunları,Çöl oyun müzikleri,2023-06-19,playlist270.jpg
+271,91,Buz Oyunları,Buz oyun müzikleri,2023-06-20,playlist271.jpg
+272,26,Volkan Oyunları,Volkan oyun müzikleri,2023-06-21,playlist272.jpg
+273,48,Mağara Oyunları,Mağara oyun müzikleri,2023-06-22,playlist273.jpg
+274,70,Ada Oyunları,Ada oyun müzikleri,2023-06-23,playlist274.jpg
+275,92,Yarımada Oyunları,Yarımada oyun müzikleri,2023-06-24,playlist275.jpg
+276,27,Kıta Oyunları,Kıta oyun müzikleri,2023-06-25,playlist276.jpg
+277,49,Okyanus Oyunları,Okyanus oyun müzikleri,2023-06-26,playlist277.jpg
+278,71,Göl Oyunları,Göl oyun müzikleri,2023-06-27,playlist278.jpg
+279,93,Nehir Oyunları,Nehir oyun müzikleri,2023-06-28,playlist279.jpg
+280,28,Şelale Oyunları,Şelale oyun müzikleri,2023-06-29,playlist280.jpg
+281,50,Dağlık Oyunlar,Dağlık oyun müzikleri,2023-06-30,playlist281.jpg
+282,72,Ova Oyunları,Ova oyun müzikleri,2023-07-01,playlist282.jpg
+283,94,Plato Oyunları,Plato oyun müzikleri,2023-07-02,playlist283.jpg
+284,29,Vadi Oyunları,Vadi oyun müzikleri,2023-07-03,playlist284.jpg
+285,51,Kanyon Oyunları,Kanyon oyun müzikleri,2023-07-04,playlist285.jpg
+286,73,Tepe Oyunları,Tepe oyun müzikleri,2023-07-05,playlist286.jpg
+287,95,Doruk Oyunları,Doruk oyun müzikleri,2023-07-06,playlist287.jpg
+288,30,Yayla Oyunları,Yayla oyun müzikleri,2023-07-07,playlist288.jpg
+289,52,Mera Oyunları,Mera oyun müzikleri,2023-07-08,playlist289.jpg
+290,74,Çayır Oyunları,Çayır oyun müzikleri,2023-07-09,playlist290.jpg
+291,96,Step Oyunları,Step oyun müzikleri,2023-07-10,playlist291.jpg
+292,31,Savana Oyunları,Savana oyun müzikleri,2023-07-11,playlist292.jpg
+293,53,Çöl Oyunları,Çöl oyun müzikleri,2023-07-12,playlist293.jpg
+294,75,Kutup Oyunları,Kutup oyun müzikleri,2023-07-13,playlist294.jpg
+295,97,Tundra Oyunları,Tundra oyun müzikleri,2023-07-14,playlist295.jpg
+296,32,Tayga Oyunları,Tayga oyun müzikleri,2023-07-15,playlist296.jpg
+297,54,Muson Oyunları,Muson oyun müzikleri,2023-07-16,playlist297.jpg
+298,76,Ekvator Oyunları,Ekvator oyun müzikleri,2023-07-17,playlist298.jpg
+299,98,Tropik Oyunlar,Tropik oyun müzikleri,2023-07-18,playlist299.jpg
+300,33,Subtropik Oyunlar,Subtropik oyun müzikleri,2023-07-19,playlist300.jpg 

@@ -1,0 +1,688 @@
+1,1,Zilli,3:45,Pop,1997-01-01,1,song1.jpg
+2,1,Dudu,4:12,Pop,1997-01-01,2,song2.jpg
+3,1,Hüp,3:58,Pop,1997-01-01,3,song3.jpg
+4,2,İkimizin Yerine,4:30,Pop,1998-01-01,1,song4.jpg
+5,2,Seviş Benimle,3:55,Pop,1998-01-01,2,song5.jpg
+6,2,Yandım,4:15,Pop,1998-01-01,3,song6.jpg
+7,3,Ay,4:20,Pop,1999-01-01,1,song7.jpg
+8,3,Ölürüm Sana,3:50,Pop,1999-01-01,2,song8.jpg
+9,3,Gitme,4:05,Pop,1999-01-01,3,song9.jpg
+10,4,Kış Güneşi,4:25,Pop,2000-01-01,1,song10.jpg
+11,5,Tükeneceğiz,4:15,Pop,1995-01-01,1,song11.jpg
+12,5,Hadi Bakalım,3:45,Pop,1995-01-01,2,song12.jpg
+13,5,Gülümse,4:10,Pop,1995-01-01,3,song13.jpg
+14,6,Şanıma İnanma,3:55,Pop,1996-01-01,1,song14.jpg
+15,6,Belalım,4:20,Pop,1996-01-01,2,song15.jpg
+16,6,Vazgeçtim,3:50,Pop,1996-01-01,3,song16.jpg
+17,7,Sarı Odalar,4:15,Pop,1997-01-01,1,song17.jpg
+18,7,İki Yabancı,3:45,Pop,1997-01-01,2,song18.jpg
+19,7,Gidemem,4:10,Pop,1997-01-01,3,song19.jpg
+20,8,İstanbul Hatırası,4:25,Pop,1998-01-01,1,song20.jpg
+21,9,Tutamıyorum Zamanı,3:55,Pop,1993-01-01,1,song21.jpg
+22,9,Ben Güzelden Anlarım,4:20,Pop,1993-01-01,2,song22.jpg
+23,9,Kandırdım,3:45,Pop,1993-01-01,3,song23.jpg
+24,10,Festival,4:10,Pop,1994-01-01,1,song24.jpg
+25,10,Yosun,3:50,Pop,1994-01-01,2,song25.jpg
+26,10,Demedi Deme,4:15,Pop,1994-01-01,3,song26.jpg
+27,11,Rütbeni Bileceksin,3:45,Pop,1995-01-01,1,song27.jpg
+28,11,Aşk Oyunu,4:20,Pop,1995-01-01,2,song28.jpg
+29,11,Baş Harfi Ben,3:55,Pop,1995-01-01,3,song29.jpg
+30,12,Kurşun Adres Sormaz ki,4:10,Pop,1996-01-01,1,song30.jpg
+31,13,Stir Me Up,3:45,Pop,2003-01-01,1,song31.jpg
+32,13,My Body,4:20,Pop,2003-01-01,2,song32.jpg
+33,13,Düm Tek Tek,3:55,Pop,2003-01-01,3,song33.jpg
+34,14,A Good Kiss,4:10,Pop,2004-01-01,1,song34.jpg
+35,14,Fast Life,3:45,Pop,2004-01-01,2,song35.jpg
+36,14,Supernatural Love,4:20,Pop,2004-01-01,3,song36.jpg
+37,15,Biz Burdayız,3:55,Pop,2005-01-01,1,song37.jpg
+38,15,Farkımız Var,4:10,Pop,2005-01-01,2,song38.jpg
+39,16,Sarmaşık,3:45,Alternative,2010-01-01,1,song39.jpg
+40,16,A Canım,4:20,Alternative,2010-01-01,2,song40.jpg
+41,16,Mendilimde Kırmızım Var,3:55,Alternative,2010-01-01,3,song41.jpg
+42,17,Gel,4:10,Alternative,2011-01-01,1,song42.jpg
+43,17,Karakol,3:45,Alternative,2011-01-01,2,song43.jpg
+44,18,Maximum,4:20,Pop,2006-01-01,1,song44.jpg
+45,18,Aşkı Bulamam Ben,3:55,Pop,2006-01-01,2,song45.jpg
+46,18,Vazgeçmem,4:10,Pop,2006-01-01,3,song46.jpg
+47,19,Geç Olmadan,3:45,Pop,2007-01-01,1,song47.jpg
+48,19,Adını Bilen Yazsın,4:20,Pop,2007-01-01,2,song48.jpg
+49,19,Janti,3:55,Pop,2007-01-01,3,song49.jpg
+50,20,Soyadımsın,4:10,Pop,2008-01-01,1,song50.jpg
+51,20,Kalamam Arkadaş,3:45,Pop,2008-01-01,2,song51.jpg
+52,20,Sallana Sallana,4:20,Pop,2008-01-01,3,song52.jpg
+53,21,Ele Güne Karşı,4:15,Pop,1984-01-01,1,song53.jpg
+54,21,Bodrum,3:55,Pop,1984-01-01,2,song54.jpg
+55,21,Hayal mi Gerçek mi,4:20,Pop,1984-01-01,3,song55.jpg
+56,22,Dağlar Dağlar,5:10,Rock,1969-01-01,1,song56.jpg
+57,22,Gülpembe,4:45,Rock,1975-01-01,2,song57.jpg
+58,22,Kara Sevda,4:30,Rock,1977-01-01,3,song58.jpg
+59,23,Resimdeki Gözyaşları,4:15,Rock,1972-01-01,1,song59.jpg
+60,23,Tamirci Çırağı,3:55,Rock,1973-01-01,2,song60.jpg
+61,23,Namus Belası,4:20,Rock,1974-01-01,3,song61.jpg
+62,24,Cemalim,4:10,Rock,1971-01-01,1,song62.jpg
+63,24,Şaşkın,3:45,Rock,1972-01-01,2,song63.jpg
+64,24,Fesuphanallah,4:20,Rock,1973-01-01,3,song64.jpg
+65,25,Garip Çoban,4:30,Rock,1971-01-01,1,song65.jpg
+66,25,Haliç'te Güneşin Batışı,5:15,Rock,1972-01-01,2,song66.jpg
+67,25,Yalnızlar Rıhtımı,4:45,Rock,1973-01-01,3,song67.jpg
+68,26,Şarkı Söylemek Lazım,3:55,Pop,2014-01-01,1,song68.jpg
+69,26,Beni Benimle Bırak,4:20,Pop,2014-01-01,2,song69.jpg
+70,26,Çok Sevdim İkimizi,3:45,Pop,2014-01-01,3,song70.jpg
+71,27,Beni Unut,4:10,Pop,2016-01-01,1,song71.jpg
+72,27,Kendime Yalan Söyledim,3:55,Pop,2016-01-01,2,song72.jpg
+73,27,İncir,4:20,Pop,2016-01-01,3,song73.jpg
+74,28,Beni Benimle Bırak,3:45,Pop,2011-01-01,1,song74.jpg
+75,28,Beni Unut,4:10,Pop,2011-01-01,2,song75.jpg
+76,28,Kendime Yalan Söyledim,3:55,Pop,2011-01-01,3,song76.jpg
+77,29,Şarkı Söylemek Lazım,4:20,Pop,2001-01-01,1,song77.jpg
+78,29,Beni Benimle Bırak,3:45,Pop,2001-01-01,2,song78.jpg
+79,29,Çok Sevdim İkimizi,4:10,Pop,2001-01-01,3,song79.jpg
+80,30,Beni Unut,3:55,Pop,2000-01-01,1,song80.jpg
+81,30,Kendime Yalan Söyledim,4:20,Pop,2000-01-01,2,song81.jpg
+82,30,İncir,3:45,Pop,2000-01-01,3,song82.jpg
+83,31,Shake It Off,3:45,Pop,2014-01-01,1,song83.jpg
+84,31,Blank Space,4:20,Pop,2014-01-01,2,song84.jpg
+85,31,Style,3:55,Pop,2014-01-01,3,song85.jpg
+86,32,Shape of You,3:55,Pop,2017-01-01,1,song86.jpg
+87,32,Perfect,4:20,Pop,2017-01-01,2,song87.jpg
+88,32,Thinking Out Loud,4:45,Pop,2014-01-01,3,song88.jpg
+89,33,Blinding Lights,3:20,Pop,2019-01-01,1,song89.jpg
+90,33,Starboy,3:50,Pop,2016-01-01,2,song90.jpg
+91,33,The Hills,3:45,Pop,2015-01-01,3,song91.jpg
+92,34,God's Plan,3:20,Hip-Hop,2018-01-01,1,song92.jpg
+93,34,One Dance,2:55,Hip-Hop,2016-01-01,2,song93.jpg
+94,34,Hotline Bling,4:30,Hip-Hop,2015-01-01,3,song94.jpg
+95,35,bad guy,3:15,Alternative,2019-01-01,1,song95.jpg
+96,35,when the party's over,3:20,Alternative,2019-01-01,2,song96.jpg
+97,35,lovely,3:25,Alternative,2018-01-01,3,song97.jpg
+98,36,Dynamite,3:20,K-Pop,2020-01-01,1,song98.jpg
+99,36,Butter,2:45,K-Pop,2021-01-01,2,song99.jpg
+100,36,Boy With Luv,3:50,K-Pop,2019-01-01,3,song100.jpg
+104,37,Thank U Next,3:30,Pop,2018-01-01,1,song104.jpg
+105,37,7 Rings,2:55,Pop,2019-01-01,2,song105.jpg
+106,37,No Tears Left to Cry,3:25,Pop,2018-01-01,3,song106.jpg
+107,38,New Rules,3:30,Pop,2017-01-01,1,song107.jpg
+108,38,Don't Start Now,3:05,Pop,2019-01-01,2,song108.jpg
+109,38,Levitating,3:25,Pop,2020-01-01,3,song109.jpg
+110,39,Sorry,3:20,Pop,2015-01-01,1,song110.jpg
+111,39,Love Yourself,3:55,Pop,2015-01-01,2,song111.jpg
+112,39,What Do You Mean?,3:25,Pop,2015-01-01,3,song112.jpg
+113,40,Hello,4:55,Pop,2015-01-01,1,song113.jpg
+114,40,Someone Like You,4:45,Pop,2011-01-01,2,song114.jpg
+115,40,Rolling in the Deep,3:50,Pop,2010-01-01,3,song115.jpg
+116,41,Yellow,4:30,Rock,2000-01-01,1,song116.jpg
+117,41,The Scientist,5:10,Rock,2002-01-01,2,song117.jpg
+118,41,Clocks,5:10,Rock,2002-01-01,3,song118.jpg
+119,42,Radioactive,3:05,Rock,2012-01-01,1,song119.jpg
+120,42,Demons,2:55,Rock,2012-01-01,2,song120.jpg
+121,42,Believer,3:25,Rock,2017-01-01,3,song121.jpg
+122,43,Sugar,3:55,Pop,2014-01-01,1,song122.jpg
+123,43,Memories,3:05,Pop,2019-01-01,2,song123.jpg
+124,43,Girls Like You,3:55,Pop,2018-01-01,3,song124.jpg
+125,44,Uptown Funk,4:30,Pop,2014-01-01,1,song125.jpg
+126,44,Just the Way You Are,3:40,Pop,2010-01-01,2,song126.jpg
+127,44,24K Magic,3:45,Pop,2016-01-01,3,song127.jpg
+128,45,Umbrella,4:35,Pop,2007-01-01,1,song128.jpg
+129,45,We Found Love,3:35,Pop,2011-01-01,2,song129.jpg
+130,45,Diamonds,3:45,Pop,2012-01-01,3,song130.jpg
+131,46,Crazy in Love,3:55,Pop,2003-01-01,1,song131.jpg
+132,46,Halo,4:20,Pop,2008-01-01,2,song132.jpg
+133,46,Formation,3:25,Pop,2016-01-01,3,song133.jpg
+134,47,Poker Face,3:55,Pop,2008-01-01,1,song134.jpg
+135,47,Bad Romance,4:55,Pop,2009-01-01,2,song135.jpg
+136,47,Shallow,3:35,Pop,2018-01-01,3,song136.jpg
+137,48,Firework,3:45,Pop,2010-01-01,1,song137.jpg
+138,48,Roar,3:40,Pop,2013-01-01,2,song138.jpg
+139,48,Dark Horse,3:35,Pop,2013-01-01,3,song139.jpg
+140,49,Stitches,3:25,Pop,2015-01-01,1,song140.jpg
+141,49,In My Blood,3:30,Pop,2018-01-01,2,song141.jpg
+142,49,Senorita,3:10,Pop,2019-01-01,3,song142.jpg
+143,50,Rockstar,3:40,Hip-Hop,2017-01-01,1,song143.jpg
+144,50,Circles,3:35,Hip-Hop,2019-01-01,2,song144.jpg
+145,50,Sunflower,2:45,Hip-Hop,2018-01-01,3,song145.jpg
+146,51,Lose Yourself,5:20,Hip-Hop,2002-01-01,1,song146.jpg
+147,51,Not Afraid,4:10,Hip-Hop,2010-01-01,2,song147.jpg
+148,51,The Real Slim Shady,4:45,Hip-Hop,2000-01-01,3,song148.jpg
+149,52,HUMBLE,2:55,Hip-Hop,2017-01-01,1,song149.jpg
+150,52,All The Stars,3:55,Hip-Hop,2018-01-01,2,song150.jpg
+151,52,DNA,3:05,Hip-Hop,2017-01-01,3,song151.jpg
+152,53,SICKO MODE,5:15,Hip-Hop,2018-01-01,1,song152.jpg
+153,53,Goosebumps,4:05,Hip-Hop,2016-01-01,2,song153.jpg
+154,53,Highest in the Room,2:55,Hip-Hop,2019-01-01,3,song154.jpg
+155,54,Stronger,5:15,Hip-Hop,2007-01-01,1,song155.jpg
+156,54,Heartless,3:30,Hip-Hop,2008-01-01,2,song156.jpg
+157,54,Gold Digger,3:45,Hip-Hop,2005-01-01,3,song157.jpg
+158,55,Empire State of Mind,4:35,Hip-Hop,2009-01-01,1,song158.jpg
+159,55,99 Problems,3:55,Hip-Hop,2003-01-01,2,song159.jpg
+160,55,Run This Town,4:25,Hip-Hop,2009-01-01,3,song160.jpg
+161,56,Chandelier,3:35,Pop,2014-01-01,1,song161.jpg
+162,56,Elastic Heart,4:15,Pop,2013-01-01,2,song162.jpg
+163,56,Cheap Thrills,3:30,Pop,2016-01-01,3,song163.jpg
+164,57,Wolves,3:15,Pop,2017-01-01,1,song164.jpg
+165,57,Good For You,3:40,Pop,2015-01-01,2,song165.jpg
+166,57,Hands to Myself,3:20,Pop,2015-01-01,3,song166.jpg
+167,58,Sorry Not Sorry,3:25,Pop,2017-01-01,1,song167.jpg
+168,58,Skyscraper,3:40,Pop,2011-01-01,2,song168.jpg
+169,58,Cool for the Summer,3:35,Pop,2015-01-01,3,song169.jpg
+170,59,Without Me,3:20,Pop,2018-01-01,1,song170.jpg
+171,59,Bad at Love,3:00,Pop,2017-01-01,2,song171.jpg
+172,59,Graveyard,3:00,Pop,2019-01-01,3,song172.jpg
+173,60,Truth Hurts,3:10,Pop,2017-01-01,1,song173.jpg
+174,60,Good as Hell,2:40,Pop,2016-01-01,2,song174.jpg
+175,60,Rumors,2:45,Pop,2021-01-01,3,song175.jpg
+176,61,Sign of the Times,5:40,Pop,2017-01-01,1,song176.jpg
+177,61,Watermelon Sugar,2:55,Pop,2019-01-01,2,song177.jpg
+178,61,Adore You,3:25,Pop,2019-01-01,3,song178.jpg
+179,62,What Makes You Beautiful,3:20,Pop,2011-01-01,1,song179.jpg
+180,62,Story of My Life,4:05,Pop,2013-01-01,2,song180.jpg
+181,62,Drag Me Down,3:15,Pop,2015-01-01,3,song181.jpg
+182,63,How You Like That,3:00,K-Pop,2020-01-01,1,song182.jpg
+183,63,Kill This Love,3:10,K-Pop,2019-01-01,2,song183.jpg
+184,63,DDU-DU DDU-DU,3:30,K-Pop,2018-01-01,3,song184.jpg
+185,64,Love Shot,3:20,K-Pop,2018-01-01,1,song185.jpg
+186,64,Monster,3:25,K-Pop,2020-01-01,2,song186.jpg
+187,64,Obsession,3:30,K-Pop,2019-01-01,3,song187.jpg
+188,65,TT,3:35,K-Pop,2016-01-01,1,song188.jpg
+189,65,Likey,3:30,K-Pop,2017-01-01,2,song189.jpg
+190,65,Fancy,3:30,K-Pop,2019-01-01,3,song190.jpg
+191,66,Red Flavor,3:10,K-Pop,2017-01-01,1,song191.jpg
+192,66,Psycho,3:30,K-Pop,2019-01-01,2,song192.jpg
+193,66,Bad Boy,3:30,K-Pop,2018-01-01,3,song193.jpg
+194,67,Kick Back,3:15,K-Pop,2021-01-01,1,song194.jpg
+195,67,Make A Wish,3:30,K-Pop,2020-01-01,2,song195.jpg
+196,67,90's Love,3:30,K-Pop,2020-01-01,3,song196.jpg
+197,68,DNA,3:45,K-Pop,2017-01-01,1,song197.jpg
+198,68,Fake Love,4:05,K-Pop,2018-01-01,2,song198.jpg
+199,68,Blood Sweat & Tears,3:35,K-Pop,2016-01-01,3,song199.jpg
+200,69,God's Menu,3:15,K-Pop,2020-01-01,1,song200.jpg
+201,69,Back Door,3:10,K-Pop,2020-01-01,2,song201.jpg
+202,69,Thunderous,3:15,K-Pop,2021-01-01,3,song202.jpg
+203,70,Wonderland,3:20,K-Pop,2019-01-01,1,song203.jpg
+204,70,Answer,3:30,K-Pop,2020-01-01,2,song204.jpg
+205,70,Inception,3:30,K-Pop,2020-01-01,3,song205.jpg
+206,71,Closer,4:05,EDM,2016-01-01,1,song206.jpg
+207,71,Something Just Like This,4:10,EDM,2017-01-01,2,song207.jpg
+208,71,Don't Let Me Down,3:30,EDM,2016-01-01,3,song208.jpg
+209,72,This Is What You Came For,3:40,EDM,2016-01-01,1,song209.jpg
+210,72,We Found Love,3:35,EDM,2011-01-01,2,song210.jpg
+211,72,Summer,3:45,EDM,2014-01-01,3,song211.jpg
+212,73,Titanium,4:05,EDM,2011-01-01,1,song212.jpg
+213,73,Hey Mama,3:15,EDM,2015-01-01,2,song213.jpg
+214,73,Memories,3:30,EDM,2009-01-01,3,song214.jpg
+215,74,Animals,5:40,EDM,2013-01-01,1,song215.jpg
+216,74,In the Name of Love,3:20,EDM,2016-01-01,2,song216.jpg
+217,74,Scared to Be Lonely,3:40,EDM,2017-01-01,3,song217.jpg
+218,75,Alone,3:20,EDM,2016-01-01,1,song218.jpg
+219,75,Friends,3:25,EDM,2018-01-01,2,song219.jpg
+220,75,Happier,3:30,EDM,2018-01-01,3,song220.jpg
+221,76,Firestone,4:35,EDM,2014-01-01,1,song221.jpg
+222,76,Stole the Show,3:40,EDM,2015-01-01,2,song222.jpg
+223,76,It Ain't Me,3:40,EDM,2017-01-01,3,song223.jpg
+224,77,Clarity,4:30,EDM,2012-01-01,1,song224.jpg
+225,77,Stay,3:30,EDM,2017-01-01,2,song225.jpg
+226,77,The Middle,3:05,EDM,2018-01-01,3,song226.jpg
+227,78,Adagio for Strings,9:00,EDM,2004-01-01,1,song227.jpg
+228,78,Red Lights,4:20,EDM,2013-01-01,2,song228.jpg
+229,78,Secrets,4:10,EDM,2009-01-01,3,song229.jpg
+230,79,This Is What It Feels Like,3:25,EDM,2013-01-01,1,song230.jpg
+231,79,Blah Blah Blah,2:40,EDM,2018-01-01,2,song231.jpg
+232,79,Great Spirit,3:30,EDM,2016-01-01,3,song232.jpg
+233,80,Spaceman,3:30,EDM,2012-01-01,1,song233.jpg
+234,80,Apollo,3:30,EDM,2013-01-01,2,song234.jpg
+235,80,Young Again,3:30,EDM,2014-01-01,3,song235.jpg
+236,81,Enter Sandman,5:30,Metal,1991-01-01,1,song236.jpg
+237,81,Nothing Else Matters,6:30,Metal,1991-01-01,2,song237.jpg
+238,81,One,7:25,Metal,1988-01-01,3,song238.jpg
+239,82,Fear of the Dark,7:15,Metal,1992-01-01,1,song239.jpg
+240,82,The Trooper,4:10,Metal,1983-01-01,2,song240.jpg
+241,82,Run to the Hills,3:50,Metal,1982-01-01,3,song241.jpg
+242,83,Psychosocial,4:40,Metal,2008-01-01,1,song242.jpg
+243,83,Duality,4:15,Metal,2004-01-01,2,song243.jpg
+244,83,Before I Forget,4:35,Metal,2004-01-01,3,song244.jpg
+245,84,Symphony of Destruction,4:05,Metal,1992-01-01,1,song245.jpg
+246,84,Holy Wars,6:35,Metal,1990-01-01,2,song246.jpg
+247,84,Peace Sells,4:05,Metal,1986-01-01,3,song247.jpg
+248,85,Paranoid,2:50,Metal,1970-01-01,1,song248.jpg
+249,85,War Pigs,7:55,Metal,1970-01-01,2,song249.jpg
+250,85,Iron Man,5:55,Metal,1970-01-01,3,song250.jpg
+251,86,Highway to Hell,3:30,Rock,1979-01-01,1,song251.jpg
+252,86,Back in Black,4:15,Rock,1980-01-01,2,song252.jpg
+253,86,Thunderstruck,4:50,Rock,1990-01-01,3,song253.jpg
+254,87,Sweet Child O' Mine,5:55,Rock,1987-01-01,1,song254.jpg
+255,87,November Rain,8:55,Rock,1991-01-01,2,song255.jpg
+256,87,Paradise City,6:45,Rock,1987-01-01,3,song256.jpg
+257,88,Smells Like Teen Spirit,5:00,Rock,1991-01-01,1,song257.jpg
+258,88,Come As You Are,3:40,Rock,1991-01-01,2,song258.jpg
+259,88,Lithium,4:15,Rock,1991-01-01,3,song259.jpg
+260,89,Even Flow,4:55,Rock,1991-01-01,1,song260.jpg
+261,89,Alive,5:40,Rock,1991-01-01,2,song261.jpg
+262,89,Jeremy,5:20,Rock,1991-01-01,3,song262.jpg
+263,90,Everlong,4:10,Rock,1997-01-01,1,song263.jpg
+264,90,The Pretender,4:30,Rock,2007-01-01,2,song264.jpg
+265,90,Best of You,4:15,Rock,2005-01-01,3,song265.jpg
+266,91,In the End,3:35,Rock,2000-01-01,1,song266.jpg
+267,91,Numb,3:05,Rock,2003-01-01,2,song267.jpg
+268,91,Crawling,3:30,Rock,2000-01-01,3,song268.jpg
+269,92,Basket Case,3:00,Rock,1994-01-01,1,song269.jpg
+270,92,American Idiot,2:55,Rock,2004-01-01,2,song270.jpg
+271,92,21 Guns,5:20,Rock,2009-01-01,3,song271.jpg
+272,93,Californication,5:30,Rock,1999-01-01,1,song272.jpg
+273,93,Under the Bridge,4:25,Rock,1991-01-01,2,song273.jpg
+274,93,Snow,5:35,Rock,2006-01-01,3,song274.jpg
+275,94,Satisfaction,3:45,Rock,1965-01-01,1,song275.jpg
+276,94,Paint It Black,3:45,Rock,1966-01-01,2,song276.jpg
+277,94,Angie,4:30,Rock,1973-01-01,3,song277.jpg
+278,95,Hey Jude,7:05,Rock,1968-01-01,1,song278.jpg
+279,95,Let It Be,4:05,Rock,1970-01-01,2,song279.jpg
+280,95,Yesterday,2:05,Rock,1965-01-01,3,song280.jpg
+281,96,Stairway to Heaven,8:00,Rock,1971-01-01,1,song281.jpg
+282,96,Whole Lotta Love,5:35,Rock,1969-01-01,2,song282.jpg
+283,96,Kashmir,8:30,Rock,1975-01-01,3,song283.jpg
+284,97,Comfortably Numb,6:25,Rock,1979-01-01,1,song284.jpg
+285,97,Another Brick in the Wall,6:00,Rock,1979-01-01,2,song285.jpg
+286,97,Wish You Were Here,5:35,Rock,1975-01-01,3,song286.jpg
+287,98,Bohemian Rhapsody,5:55,Rock,1975-01-01,1,song287.jpg
+288,98,We Will Rock You,2:00,Rock,1977-01-01,2,song288.jpg
+289,98,Another One Bites the Dust,3:35,Rock,1980-01-01,3,song289.jpg
+290,99,With or Without You,4:55,Rock,1987-01-01,1,song290.jpg
+291,99,Beautiful Day,4:05,Rock,2000-01-01,2,song291.jpg
+292,99,One,4:35,Rock,1991-01-01,3,song292.jpg
+293,100,Creep,3:55,Alternative,1992-01-01,1,song293.jpg
+294,100,Karma Police,4:20,Alternative,1997-01-01,2,song294.jpg
+295,100,No Surprises,3:50,Alternative,1997-01-01,3,song295.jpg
+296,101,Do I Wanna Know?,4:30,Alternative,2013-01-01,1,song296.jpg
+297,101,R U Mine?,3:20,Alternative,2012-01-01,2,song297.jpg
+298,101,Why'd You Only Call Me When You're High?,2:40,Alternative,2013-01-01,3,song298.jpg
+299,102,Mr. Brightside,3:40,Alternative,2003-01-01,1,song299.jpg
+300,102,Somebody Told Me,3:15,Alternative,2004-01-01,2,song300.jpg
+301,102,When You Were Young,3:40,Alternative,2006-01-01,3,song301.jpg
+302,103,Uprising,5:00,Alternative,2009-01-01,1,song302.jpg
+303,103,Starlight,4:00,Alternative,2006-01-01,2,song303.jpg
+304,103,Supermassive Black Hole,3:30,Alternative,2006-01-01,3,song304.jpg
+305,104,Stressed Out,3:20,Alternative,2015-01-01,1,song305.jpg
+306,104,Ride,3:35,Alternative,2015-01-01,2,song306.jpg
+307,104,Heathens,3:15,Alternative,2016-01-01,3,song307.jpg
+308,105,Sugar We're Goin Down,3:50,Alternative,2005-01-01,1,song308.jpg
+309,105,Dance Dance,3:00,Alternative,2005-01-01,2,song309.jpg
+310,105,Thnks fr th Mmrs,3:25,Alternative,2007-01-01,3,song310.jpg
+311,106,Welcome to the Black Parade,5:10,Alternative,2006-01-01,1,song311.jpg
+312,106,Helena,3:20,Alternative,2004-01-01,2,song312.jpg
+313,106,I'm Not Okay,3:00,Alternative,2004-01-01,3,song313.jpg
+314,107,I Write Sins Not Tragedies,3:25,Alternative,2005-01-01,1,song314.jpg
+315,107,This Is Gospel,3:25,Alternative,2013-01-01,2,song315.jpg
+316,107,High Hopes,3:10,Alternative,2018-01-01,3,song316.jpg
+317,108,Misery Business,3:30,Alternative,2007-01-01,1,song317.jpg
+318,108,Still Into You,3:35,Alternative,2013-01-01,2,song318.jpg
+319,108,Ain't It Fun,4:55,Alternative,2013-01-01,3,song319.jpg
+320,109,All the Small Things,2:50,Punk,1999-01-01,1,song320.jpg
+321,109,What's My Age Again?,2:30,Punk,1999-01-01,2,song321.jpg
+322,109,The Rock Show,2:50,Punk,2001-01-01,3,song322.jpg
+323,110,The Kids Aren't Alright,3:00,Punk,1998-01-01,1,song323.jpg
+324,110,You're Gonna Go Far Kid,2:55,Punk,2008-01-01,2,song324.jpg
+325,110,Self Esteem,4:15,Punk,1994-01-01,3,song325.jpg
+326,111,In Too Deep,3:25,Punk,2001-01-01,1,song326.jpg
+327,111,Still Waiting,2:40,Punk,2002-01-01,2,song327.jpg
+328,111,The Hell Song,3:20,Punk,2002-01-01,3,song328.jpg
+329,112,21st Century Digital Boy,3:00,Punk,1990-01-01,1,song329.jpg
+330,112,Los Angeles Is Burning,3:45,Punk,2004-01-01,2,song330.jpg
+331,112,American Jesus,3:20,Punk,1993-01-01,3,song331.jpg
+332,113,Linoleum,2:10,Punk,1994-01-01,1,song332.jpg
+333,113,The Decline,18:20,Punk,1999-01-01,2,song333.jpg
+334,113,Franco Un-American,2:25,Punk,2003-01-01,3,song334.jpg
+335,114,Time Bomb,2:25,Punk,1995-01-01,1,song335.jpg
+336,114,Ruby Soho,2:35,Punk,1995-01-01,2,song336.jpg
+337,114,Maxwell Murder,1:50,Punk,1995-01-01,3,song337.jpg
+338,115,Savior,4:00,Punk,2008-01-01,1,song338.jpg
+339,115,Give It All,2:50,Punk,2004-01-01,2,song339.jpg
+340,115,Ready to Fall,3:45,Punk,2006-01-01,3,song340.jpg
+341,116,Bro Hymn,3:00,Punk,1991-01-01,1,song341.jpg
+342,116,Alien,2:45,Punk,2001-01-01,2,song342.jpg
+343,116,Revolution,2:50,Punk,2003-01-01,3,song343.jpg
+344,117,Ball and Chain,5:40,Punk,1990-01-01,1,song344.jpg
+345,117,Ring of Fire,3:45,Punk,1990-01-01,2,song345.jpg
+346,117,Story of My Life,5:45,Punk,1990-01-01,3,song346.jpg
+347,118,City of Angels,3:25,Punk,2003-01-01,1,song347.jpg
+348,118,The Hunger,2:45,Punk,2003-01-01,2,song348.jpg
+349,118,Beat Your Heart Out,2:45,Punk,2003-01-01,3,song349.jpg
+350,119,California Über Alles,3:00,Punk,1979-01-01,1,song350.jpg
+351,119,Holiday in Cambodia,4:35,Punk,1980-01-01,2,song351.jpg
+352,119,Too Drunk to Fuck,2:40,Punk,1981-01-01,3,song352.jpg
+353,120,Anarchy in the U.K.,3:30,Punk,1976-01-01,1,song353.jpg
+354,120,God Save the Queen,3:20,Punk,1977-01-01,2,song354.jpg
+355,120,Pretty Vacant,3:15,Punk,1977-01-01,3,song355.jpg 
+356,121,Smells Like Teen Spirit,5:00,Grunge,1991-01-01,1,song356.jpg
+357,121,Come As You Are,3:40,Grunge,1991-01-01,2,song357.jpg
+358,121,Lithium,4:15,Grunge,1991-01-01,3,song358.jpg
+359,122,Even Flow,4:55,Grunge,1991-01-01,1,song359.jpg
+360,122,Alive,5:40,Grunge,1991-01-01,2,song360.jpg
+361,122,Jeremy,5:20,Grunge,1991-01-01,3,song361.jpg
+362,123,Black Hole Sun,5:20,Grunge,1994-01-01,1,song362.jpg
+363,123,Spoonman,4:05,Grunge,1994-01-01,2,song363.jpg
+364,123,Fell on Black Days,4:45,Grunge,1994-01-01,3,song364.jpg
+365,124,Plush,5:15,Grunge,1992-01-01,1,song365.jpg
+366,124,Vasoline,3:00,Grunge,1994-01-01,2,song366.jpg
+367,124,Interstate Love Song,3:15,Grunge,1994-01-01,3,song367.jpg
+368,125,Rooster,6:15,Grunge,1992-01-01,1,song368.jpg
+369,125,Man in the Box,4:45,Grunge,1990-01-01,2,song369.jpg
+370,125,Would?,3:30,Grunge,1992-01-01,3,song370.jpg
+371,126,Today,3:20,Grunge,1993-01-01,1,song371.jpg
+372,126,Disarm,3:20,Grunge,1993-01-01,2,song372.jpg
+373,126,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song373.jpg
+374,127,Loser,4:20,Grunge,1993-01-01,1,song374.jpg
+375,127,Where It's At,5:30,Grunge,1996-01-01,2,song375.jpg
+376,127,Devils Haircut,3:15,Grunge,1996-01-01,3,song376.jpg
+377,128,No Rain,3:35,Grunge,1992-01-01,1,song377.jpg
+378,128,Galaxie,2:55,Grunge,1992-01-01,2,song378.jpg
+379,128,Tones of Home,4:25,Grunge,1992-01-01,3,song379.jpg
+380,129,Far Behind,5:00,Grunge,1992-01-01,1,song380.jpg
+381,129,Save Me,3:55,Grunge,1992-01-01,2,song381.jpg
+382,129,Nowhere,4:15,Grunge,1992-01-01,3,song382.jpg
+383,130,Would?,3:30,Grunge,1992-01-01,1,song383.jpg
+384,130,Rooster,6:15,Grunge,1992-01-01,2,song384.jpg
+385,130,Man in the Box,4:45,Grunge,1990-01-01,3,song385.jpg
+386,131,Black,5:45,Grunge,1991-01-01,1,song386.jpg
+387,131,Alive,5:40,Grunge,1991-01-01,2,song387.jpg
+388,131,Even Flow,4:55,Grunge,1991-01-01,3,song388.jpg
+389,132,Outshined,5:10,Grunge,1991-01-01,1,song389.jpg
+390,132,Rusty Cage,4:25,Grunge,1991-01-01,2,song390.jpg
+391,132,Black Hole Sun,5:20,Grunge,1994-01-01,3,song391.jpg
+392,133,Plush,5:15,Grunge,1992-01-01,1,song392.jpg
+393,133,Vasoline,3:00,Grunge,1994-01-01,2,song393.jpg
+394,133,Interstate Love Song,3:15,Grunge,1994-01-01,3,song394.jpg
+395,134,Today,3:20,Grunge,1993-01-01,1,song395.jpg
+396,134,Disarm,3:20,Grunge,1993-01-01,2,song396.jpg
+397,134,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song397.jpg
+398,135,Loser,4:20,Grunge,1993-01-01,1,song398.jpg
+399,135,Where It's At,5:30,Grunge,1996-01-01,2,song399.jpg
+400,135,Devils Haircut,3:15,Grunge,1996-01-01,3,song400.jpg
+401,136,No Rain,3:35,Grunge,1992-01-01,1,song401.jpg
+402,136,Galaxie,2:55,Grunge,1992-01-01,2,song402.jpg
+403,136,Tones of Home,4:25,Grunge,1992-01-01,3,song403.jpg
+404,137,Far Behind,5:00,Grunge,1992-01-01,1,song404.jpg
+405,137,Save Me,3:55,Grunge,1992-01-01,2,song405.jpg
+406,137,Nowhere,4:15,Grunge,1992-01-01,3,song406.jpg
+407,138,Would?,3:30,Grunge,1992-01-01,1,song407.jpg
+408,138,Rooster,6:15,Grunge,1992-01-01,2,song408.jpg
+409,138,Man in the Box,4:45,Grunge,1990-01-01,3,song409.jpg
+410,139,Black,5:45,Grunge,1991-01-01,1,song410.jpg
+411,139,Alive,5:40,Grunge,1991-01-01,2,song411.jpg
+412,139,Even Flow,4:55,Grunge,1991-01-01,3,song412.jpg
+413,140,Outshined,5:10,Grunge,1991-01-01,1,song413.jpg
+414,140,Rusty Cage,4:25,Grunge,1991-01-01,2,song414.jpg
+415,140,Black Hole Sun,5:20,Grunge,1994-01-01,3,song415.jpg
+416,141,Plush,5:15,Grunge,1992-01-01,1,song416.jpg
+417,141,Vasoline,3:00,Grunge,1994-01-01,2,song417.jpg
+418,141,Interstate Love Song,3:15,Grunge,1994-01-01,3,song418.jpg
+419,142,Today,3:20,Grunge,1993-01-01,1,song419.jpg
+420,142,Disarm,3:20,Grunge,1993-01-01,2,song420.jpg
+421,142,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song421.jpg
+422,143,Loser,4:20,Grunge,1993-01-01,1,song422.jpg
+423,143,Where It's At,5:30,Grunge,1996-01-01,2,song423.jpg
+424,143,Devils Haircut,3:15,Grunge,1996-01-01,3,song424.jpg
+425,144,No Rain,3:35,Grunge,1992-01-01,1,song425.jpg
+426,144,Galaxie,2:55,Grunge,1992-01-01,2,song426.jpg
+427,144,Tones of Home,4:25,Grunge,1992-01-01,3,song427.jpg
+428,145,Far Behind,5:00,Grunge,1992-01-01,1,song428.jpg
+429,145,Save Me,3:55,Grunge,1992-01-01,2,song429.jpg
+430,145,Nowhere,4:15,Grunge,1992-01-01,3,song430.jpg
+431,146,Would?,3:30,Grunge,1992-01-01,1,song431.jpg
+432,146,Rooster,6:15,Grunge,1992-01-01,2,song432.jpg
+433,146,Man in the Box,4:45,Grunge,1990-01-01,3,song433.jpg
+434,147,Black,5:45,Grunge,1991-01-01,1,song434.jpg
+435,147,Alive,5:40,Grunge,1991-01-01,2,song435.jpg
+436,147,Even Flow,4:55,Grunge,1991-01-01,3,song436.jpg
+437,148,Outshined,5:10,Grunge,1991-01-01,1,song437.jpg
+438,148,Rusty Cage,4:25,Grunge,1991-01-01,2,song438.jpg
+439,148,Black Hole Sun,5:20,Grunge,1994-01-01,3,song439.jpg
+440,149,Plush,5:15,Grunge,1992-01-01,1,song440.jpg
+441,149,Vasoline,3:00,Grunge,1994-01-01,2,song441.jpg
+442,149,Interstate Love Song,3:15,Grunge,1994-01-01,3,song442.jpg
+443,150,Today,3:20,Grunge,1993-01-01,1,song443.jpg
+444,150,Disarm,3:20,Grunge,1993-01-01,2,song444.jpg
+445,150,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song445.jpg
+446,151,Loser,4:20,Grunge,1993-01-01,1,song446.jpg
+447,151,Where It's At,5:30,Grunge,1996-01-01,2,song447.jpg
+448,151,Devils Haircut,3:15,Grunge,1996-01-01,3,song448.jpg
+449,152,No Rain,3:35,Grunge,1992-01-01,1,song449.jpg
+450,152,Galaxie,2:55,Grunge,1992-01-01,2,song450.jpg
+451,152,Tones of Home,4:25,Grunge,1992-01-01,3,song451.jpg
+452,153,Far Behind,5:00,Grunge,1992-01-01,1,song452.jpg
+453,153,Save Me,3:55,Grunge,1992-01-01,2,song453.jpg
+454,153,Nowhere,4:15,Grunge,1992-01-01,3,song454.jpg
+455,154,Would?,3:30,Grunge,1992-01-01,1,song455.jpg
+456,154,Rooster,6:15,Grunge,1992-01-01,2,song456.jpg
+457,154,Man in the Box,4:45,Grunge,1990-01-01,3,song457.jpg
+458,155,Black,5:45,Grunge,1991-01-01,1,song458.jpg
+459,155,Alive,5:40,Grunge,1991-01-01,2,song459.jpg
+460,155,Even Flow,4:55,Grunge,1991-01-01,3,song460.jpg
+461,156,Outshined,5:10,Grunge,1991-01-01,1,song461.jpg
+462,156,Rusty Cage,4:25,Grunge,1991-01-01,2,song462.jpg
+463,156,Black Hole Sun,5:20,Grunge,1994-01-01,3,song463.jpg
+464,157,Plush,5:15,Grunge,1992-01-01,1,song464.jpg
+465,157,Vasoline,3:00,Grunge,1994-01-01,2,song465.jpg
+466,157,Interstate Love Song,3:15,Grunge,1994-01-01,3,song466.jpg
+467,158,Today,3:20,Grunge,1993-01-01,1,song467.jpg
+468,158,Disarm,3:20,Grunge,1993-01-01,2,song468.jpg
+469,158,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song469.jpg
+470,159,Loser,4:20,Grunge,1993-01-01,1,song470.jpg
+471,159,Where It's At,5:30,Grunge,1996-01-01,2,song471.jpg
+472,159,Devils Haircut,3:15,Grunge,1996-01-01,3,song472.jpg
+473,160,No Rain,3:35,Grunge,1992-01-01,1,song473.jpg
+474,160,Galaxie,2:55,Grunge,1992-01-01,2,song474.jpg
+475,160,Tones of Home,4:25,Grunge,1992-01-01,3,song475.jpg
+476,161,Far Behind,5:00,Grunge,1992-01-01,1,song476.jpg
+477,161,Save Me,3:55,Grunge,1992-01-01,2,song477.jpg
+478,161,Nowhere,4:15,Grunge,1992-01-01,3,song478.jpg
+479,162,Would?,3:30,Grunge,1992-01-01,1,song479.jpg
+480,162,Rooster,6:15,Grunge,1992-01-01,2,song480.jpg
+481,162,Man in the Box,4:45,Grunge,1990-01-01,3,song481.jpg
+482,163,Black,5:45,Grunge,1991-01-01,1,song482.jpg
+483,163,Alive,5:40,Grunge,1991-01-01,2,song483.jpg
+484,163,Even Flow,4:55,Grunge,1991-01-01,3,song484.jpg
+485,164,Outshined,5:10,Grunge,1991-01-01,1,song485.jpg
+486,164,Rusty Cage,4:25,Grunge,1991-01-01,2,song486.jpg
+487,164,Black Hole Sun,5:20,Grunge,1994-01-01,3,song487.jpg
+488,165,Plush,5:15,Grunge,1992-01-01,1,song488.jpg
+489,165,Vasoline,3:00,Grunge,1994-01-01,2,song489.jpg
+490,165,Interstate Love Song,3:15,Grunge,1994-01-01,3,song490.jpg
+491,166,Today,3:20,Grunge,1993-01-01,1,song491.jpg
+492,166,Disarm,3:20,Grunge,1993-01-01,2,song492.jpg
+493,166,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song493.jpg
+494,167,Loser,4:20,Grunge,1993-01-01,1,song494.jpg
+495,167,Where It's At,5:30,Grunge,1996-01-01,2,song495.jpg
+496,167,Devils Haircut,3:15,Grunge,1996-01-01,3,song496.jpg
+497,168,No Rain,3:35,Grunge,1992-01-01,1,song497.jpg
+498,168,Galaxie,2:55,Grunge,1992-01-01,2,song498.jpg
+499,168,Tones of Home,4:25,Grunge,1992-01-01,3,song499.jpg
+500,169,Far Behind,5:00,Grunge,1992-01-01,1,song500.jpg
+501,169,Save Me,3:55,Grunge,1992-01-01,2,song501.jpg
+502,169,Nowhere,4:15,Grunge,1992-01-01,3,song502.jpg
+503,170,Would?,3:30,Grunge,1992-01-01,1,song503.jpg
+504,170,Rooster,6:15,Grunge,1992-01-01,2,song504.jpg
+505,170,Man in the Box,4:45,Grunge,1990-01-01,3,song505.jpg
+506,171,Black,5:45,Grunge,1991-01-01,1,song506.jpg
+507,171,Alive,5:40,Grunge,1991-01-01,2,song507.jpg
+508,171,Even Flow,4:55,Grunge,1991-01-01,3,song508.jpg
+509,172,Outshined,5:10,Grunge,1991-01-01,1,song509.jpg
+510,172,Rusty Cage,4:25,Grunge,1991-01-01,2,song510.jpg
+511,172,Black Hole Sun,5:20,Grunge,1994-01-01,3,song511.jpg
+512,173,Plush,5:15,Grunge,1992-01-01,1,song512.jpg
+513,173,Vasoline,3:00,Grunge,1994-01-01,2,song513.jpg
+514,173,Interstate Love Song,3:15,Grunge,1994-01-01,3,song514.jpg
+515,174,Today,3:20,Grunge,1993-01-01,1,song515.jpg
+516,174,Disarm,3:20,Grunge,1993-01-01,2,song516.jpg
+517,174,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song517.jpg
+518,175,Loser,4:20,Grunge,1993-01-01,1,song518.jpg
+519,175,Where It's At,5:30,Grunge,1996-01-01,2,song519.jpg
+520,175,Devils Haircut,3:15,Grunge,1996-01-01,3,song520.jpg
+521,176,No Rain,3:35,Grunge,1992-01-01,1,song521.jpg
+522,176,Galaxie,2:55,Grunge,1992-01-01,2,song522.jpg
+523,176,Tones of Home,4:25,Grunge,1992-01-01,3,song523.jpg
+524,177,Far Behind,5:00,Grunge,1992-01-01,1,song524.jpg
+525,177,Save Me,3:55,Grunge,1992-01-01,2,song525.jpg
+526,177,Nowhere,4:15,Grunge,1992-01-01,3,song526.jpg
+527,178,Would?,3:30,Grunge,1992-01-01,1,song527.jpg
+528,178,Rooster,6:15,Grunge,1992-01-01,2,song528.jpg
+529,178,Man in the Box,4:45,Grunge,1990-01-01,3,song529.jpg
+530,179,Black,5:45,Grunge,1991-01-01,1,song530.jpg
+531,179,Alive,5:40,Grunge,1991-01-01,2,song531.jpg
+532,179,Even Flow,4:55,Grunge,1991-01-01,3,song532.jpg
+533,180,Outshined,5:10,Grunge,1991-01-01,1,song533.jpg
+534,180,Rusty Cage,4:25,Grunge,1991-01-01,2,song534.jpg
+535,180,Black Hole Sun,5:20,Grunge,1994-01-01,3,song535.jpg
+536,181,Plush,5:15,Grunge,1992-01-01,1,song536.jpg
+537,181,Vasoline,3:00,Grunge,1994-01-01,2,song537.jpg
+538,181,Interstate Love Song,3:15,Grunge,1994-01-01,3,song538.jpg
+539,182,Today,3:20,Grunge,1993-01-01,1,song539.jpg
+540,182,Disarm,3:20,Grunge,1993-01-01,2,song540.jpg
+541,182,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song541.jpg
+542,183,Loser,4:20,Grunge,1993-01-01,1,song542.jpg
+543,183,Where It's At,5:30,Grunge,1996-01-01,2,song543.jpg
+544,183,Devils Haircut,3:15,Grunge,1996-01-01,3,song544.jpg
+545,184,No Rain,3:35,Grunge,1992-01-01,1,song545.jpg
+546,184,Galaxie,2:55,Grunge,1992-01-01,2,song546.jpg
+547,184,Tones of Home,4:25,Grunge,1992-01-01,3,song547.jpg
+548,185,Far Behind,5:00,Grunge,1992-01-01,1,song548.jpg
+549,185,Save Me,3:55,Grunge,1992-01-01,2,song549.jpg
+550,185,Nowhere,4:15,Grunge,1992-01-01,3,song550.jpg
+551,186,Would?,3:30,Grunge,1992-01-01,1,song551.jpg
+552,186,Rooster,6:15,Grunge,1992-01-01,2,song552.jpg
+553,186,Man in the Box,4:45,Grunge,1990-01-01,3,song553.jpg
+554,187,Black,5:45,Grunge,1991-01-01,1,song554.jpg
+555,187,Alive,5:40,Grunge,1991-01-01,2,song555.jpg
+556,187,Even Flow,4:55,Grunge,1991-01-01,3,song556.jpg
+557,188,Outshined,5:10,Grunge,1991-01-01,1,song557.jpg
+558,188,Rusty Cage,4:25,Grunge,1991-01-01,2,song558.jpg
+559,188,Black Hole Sun,5:20,Grunge,1994-01-01,3,song559.jpg
+560,189,Plush,5:15,Grunge,1992-01-01,1,song560.jpg
+561,189,Vasoline,3:00,Grunge,1994-01-01,2,song561.jpg
+562,189,Interstate Love Song,3:15,Grunge,1994-01-01,3,song562.jpg
+563,190,Today,3:20,Grunge,1993-01-01,1,song563.jpg
+564,190,Disarm,3:20,Grunge,1993-01-01,2,song564.jpg
+565,190,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song565.jpg
+566,191,Loser,4:20,Grunge,1993-01-01,1,song566.jpg
+567,191,Where It's At,5:30,Grunge,1996-01-01,2,song567.jpg
+568,191,Devils Haircut,3:15,Grunge,1996-01-01,3,song568.jpg
+569,192,No Rain,3:35,Grunge,1992-01-01,1,song569.jpg
+570,192,Galaxie,2:55,Grunge,1992-01-01,2,song570.jpg
+571,192,Tones of Home,4:25,Grunge,1992-01-01,3,song571.jpg
+572,193,Far Behind,5:00,Grunge,1992-01-01,1,song572.jpg
+573,193,Save Me,3:55,Grunge,1992-01-01,2,song573.jpg
+574,193,Nowhere,4:15,Grunge,1992-01-01,3,song574.jpg
+575,194,Would?,3:30,Grunge,1992-01-01,1,song575.jpg
+576,194,Rooster,6:15,Grunge,1992-01-01,2,song576.jpg
+577,194,Man in the Box,4:45,Grunge,1990-01-01,3,song577.jpg
+578,195,Black,5:45,Grunge,1991-01-01,1,song578.jpg
+579,195,Alive,5:40,Grunge,1991-01-01,2,song579.jpg
+580,195,Even Flow,4:55,Grunge,1991-01-01,3,song580.jpg
+581,196,Outshined,5:10,Grunge,1991-01-01,1,song581.jpg
+582,196,Rusty Cage,4:25,Grunge,1991-01-01,2,song582.jpg
+583,196,Black Hole Sun,5:20,Grunge,1994-01-01,3,song583.jpg
+584,197,Plush,5:15,Grunge,1992-01-01,1,song584.jpg
+585,197,Vasoline,3:00,Grunge,1994-01-01,2,song585.jpg
+586,197,Interstate Love Song,3:15,Grunge,1994-01-01,3,song586.jpg
+587,198,Today,3:20,Grunge,1993-01-01,1,song587.jpg
+588,198,Disarm,3:20,Grunge,1993-01-01,2,song588.jpg
+589,198,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song589.jpg
+590,199,Loser,4:20,Grunge,1993-01-01,1,song590.jpg
+591,199,Where It's At,5:30,Grunge,1996-01-01,2,song591.jpg
+592,199,Devils Haircut,3:15,Grunge,1996-01-01,3,song592.jpg
+593,200,No Rain,3:35,Grunge,1992-01-01,1,song593.jpg
+594,200,Galaxie,2:55,Grunge,1992-01-01,2,song594.jpg
+595,200,Tones of Home,4:25,Grunge,1992-01-01,3,song595.jpg
+596,201,Far Behind,5:00,Grunge,1992-01-01,1,song596.jpg
+597,201,Save Me,3:55,Grunge,1992-01-01,2,song597.jpg
+598,201,Nowhere,4:15,Grunge,1992-01-01,3,song598.jpg
+599,202,Would?,3:30,Grunge,1992-01-01,1,song599.jpg
+600,202,Rooster,6:15,Grunge,1992-01-01,2,song600.jpg
+601,202,Man in the Box,4:45,Grunge,1990-01-01,3,song601.jpg
+602,203,Black,5:45,Grunge,1991-01-01,1,song602.jpg
+603,203,Alive,5:40,Grunge,1991-01-01,2,song603.jpg
+604,203,Even Flow,4:55,Grunge,1991-01-01,3,song604.jpg
+605,204,Outshined,5:10,Grunge,1991-01-01,1,song605.jpg
+606,204,Rusty Cage,4:25,Grunge,1991-01-01,2,song606.jpg
+607,204,Black Hole Sun,5:20,Grunge,1994-01-01,3,song607.jpg
+608,205,Plush,5:15,Grunge,1992-01-01,1,song608.jpg
+609,205,Vasoline,3:00,Grunge,1994-01-01,2,song609.jpg
+610,205,Interstate Love Song,3:15,Grunge,1994-01-01,3,song610.jpg
+611,206,Today,3:20,Grunge,1993-01-01,1,song611.jpg
+612,206,Disarm,3:20,Grunge,1993-01-01,2,song612.jpg
+613,206,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song613.jpg
+614,207,Loser,4:20,Grunge,1993-01-01,1,song614.jpg
+615,207,Where It's At,5:30,Grunge,1996-01-01,2,song615.jpg
+616,207,Devils Haircut,3:15,Grunge,1996-01-01,3,song616.jpg
+617,208,No Rain,3:35,Grunge,1992-01-01,1,song617.jpg
+618,208,Galaxie,2:55,Grunge,1992-01-01,2,song618.jpg
+619,208,Tones of Home,4:25,Grunge,1992-01-01,3,song619.jpg
+620,209,Far Behind,5:00,Grunge,1992-01-01,1,song620.jpg
+621,209,Save Me,3:55,Grunge,1992-01-01,2,song621.jpg
+622,209,Nowhere,4:15,Grunge,1992-01-01,3,song622.jpg
+623,210,Would?,3:30,Grunge,1992-01-01,1,song623.jpg
+624,210,Rooster,6:15,Grunge,1992-01-01,2,song624.jpg
+625,210,Man in the Box,4:45,Grunge,1990-01-01,3,song625.jpg
+626,211,Black,5:45,Grunge,1991-01-01,1,song626.jpg
+627,211,Alive,5:40,Grunge,1991-01-01,2,song627.jpg
+628,211,Even Flow,4:55,Grunge,1991-01-01,3,song628.jpg
+629,212,Outshined,5:10,Grunge,1991-01-01,1,song629.jpg
+630,212,Rusty Cage,4:25,Grunge,1991-01-01,2,song630.jpg
+631,212,Black Hole Sun,5:20,Grunge,1994-01-01,3,song631.jpg
+632,213,Plush,5:15,Grunge,1992-01-01,1,song632.jpg
+633,213,Vasoline,3:00,Grunge,1994-01-01,2,song633.jpg
+634,213,Interstate Love Song,3:15,Grunge,1994-01-01,3,song634.jpg
+635,214,Today,3:20,Grunge,1993-01-01,1,song635.jpg
+636,214,Disarm,3:20,Grunge,1993-01-01,2,song636.jpg
+637,214,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song637.jpg
+638,215,Loser,4:20,Grunge,1993-01-01,1,song638.jpg
+639,215,Where It's At,5:30,Grunge,1996-01-01,2,song639.jpg
+640,215,Devils Haircut,3:15,Grunge,1996-01-01,3,song640.jpg
+641,216,No Rain,3:35,Grunge,1992-01-01,1,song641.jpg
+642,216,Galaxie,2:55,Grunge,1992-01-01,2,song642.jpg
+643,216,Tones of Home,4:25,Grunge,1992-01-01,3,song643.jpg
+644,217,Far Behind,5:00,Grunge,1992-01-01,1,song644.jpg
+645,217,Save Me,3:55,Grunge,1992-01-01,2,song645.jpg
+646,217,Nowhere,4:15,Grunge,1992-01-01,3,song646.jpg
+647,218,Would?,3:30,Grunge,1992-01-01,1,song647.jpg
+648,218,Rooster,6:15,Grunge,1992-01-01,2,song648.jpg
+649,218,Man in the Box,4:45,Grunge,1990-01-01,3,song649.jpg
+650,219,Black,5:45,Grunge,1991-01-01,1,song650.jpg
+651,219,Alive,5:40,Grunge,1991-01-01,2,song651.jpg
+652,219,Even Flow,4:55,Grunge,1991-01-01,3,song652.jpg
+653,220,Outshined,5:10,Grunge,1991-01-01,1,song653.jpg
+654,220,Rusty Cage,4:25,Grunge,1991-01-01,2,song654.jpg
+655,220,Black Hole Sun,5:20,Grunge,1994-01-01,3,song655.jpg
+656,221,Plush,5:15,Grunge,1992-01-01,1,song656.jpg
+657,221,Vasoline,3:00,Grunge,1994-01-01,2,song657.jpg
+658,221,Interstate Love Song,3:15,Grunge,1994-01-01,3,song658.jpg
+659,222,Today,3:20,Grunge,1993-01-01,1,song659.jpg
+660,222,Disarm,3:20,Grunge,1993-01-01,2,song660.jpg
+661,222,Bullet with Butterfly Wings,4:15,Grunge,1995-01-01,3,song661.jpg
+662,223,Loser,4:20,Grunge,1993-01-01,1,song662.jpg
+663,223,Where It's At,5:30,Grunge,1996-01-01,2,song663.jpg
+664,223,Devils Haircut,3:15,Grunge,1996-01-01,3,song664.jpg
+665,224,No Rain,3:35,Grunge,1992-01-01,1,song665.jpg
+666,224,Galaxie,2:55,Grunge,1992-01-01,2,song666.jpg
+667,224,Tones of Home,4:25,Grunge,1992-01-01,3,song667.jpg
+668,225,Far Behind,5:00,Grunge,1992-01-01,1,song668.jpg
+669,225,Save Me,3:55,Grunge,1992-01-01,2,song669.jpg
+670,225,Nowhere,4:15,Grunge,1992-01-01,3,song670.jpg
+671,226,Would?,3:30,Grunge,1992-01-01,1,song671.jpg
+672,226,Rooster,6:15,Grunge,1992-01-01,2,song672.jpg
+673,226,Man in the Box,4:45,Grunge,1990-01-01,3,song673.jpg
+674,227,Black,5:45,Grunge,1991-01-01,1,song674.jpg
+675,227,Alive,5:40,Grunge,1991-01-01,2,song675.jpg
+676,227,Even Flow,4:55,Grunge,1991-01-01,3,song676.jpg
+677,226,Yalnızım,3:55,Pop,2016-01-01,1,song677.jpg
+678,226,Gözlerin,4:10,Pop,2016-01-01,2,song678.jpg
+679,226,Unut Beni,3:50,Pop,2016-01-01,3,song679.jpg
+680,227,Sevda Çiçeği,4:25,Türk Sanat Müziği,2017-01-01,1,song680.jpg
+681,227,Gül Yüzün,3:55,Türk Sanat Müziği,2017-01-01,2,song681.jpg
+682,227,Bir Bahar Akşamı,4:15,Türk Sanat Müziği,2017-01-01,3,song682.jpg
+683,228,Kırmızı Gül,4:05,Türk Sanat Müziği,2018-01-01,1,song683.jpg
+684,228,İstanbul'da Sonbahar,3:50,Türk Sanat Müziği,2018-01-01,2,song684.jpg
+685,228,Gönül Yarası,4:20,Türk Sanat Müziği,2018-01-01,3,song685.jpg
+
+
+
+
+
+

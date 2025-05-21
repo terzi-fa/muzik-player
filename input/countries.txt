@@ -1,5 +1,0 @@
-Türkiye,TR
-United States,US
-Germany,DE
-Japan,JP
-Brazil,BR

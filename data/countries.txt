@@ -1,0 +1,250 @@
+1,Türkiye,TR
+2,ABD,US
+3,İngiltere,GB
+4,Almanya,DE
+5,Fransa,FR
+6,İtalya,IT
+7,İspanya,ES
+8,Portekiz,PT
+9,Hollanda,NL
+10,Belçika,BE
+11,İsveç,SE
+12,Norveç,NO
+13,Finlandiya,FI
+14,Danimarka,DK
+15,İsviçre,CH
+16,Avusturya,AT
+17,Polonya,PL
+18,Çek Cumhuriyeti,CZ
+19,Macaristan,HU
+20,Romanya,RO
+21,Bulgaristan,BG
+22,Yunanistan,GR
+23,Ukrayna,UA
+24,Rusya,RU
+25,Çin,CN
+26,Japonya,JP
+27,Güney Kore,KR
+28,Hindistan,IN
+29,Brezilya,BR
+30,Arjantin,AR
+31,Meksika,MX
+32,Kanada,CA
+33,Australya,AU
+34,Yeni Zelanda,NZ
+35,Güney Afrika,ZA
+36,Mısır,EG
+37,Fas,MA
+38,Cezayir,DZ
+39,Tunus,TN
+40,İran,IR
+41,Suudi Arabistan,SA
+42,Birleşik Arap Emirlikleri,AE
+43,Katar,QA
+44,Kuveyt,KW
+45,Umman,OM
+46,Ürdün,JO
+47,Lübnan,LB
+48,İsrail,IL
+49,Türkiye Cumhuriyeti,TR
+50,KKTC,CY
+51,Kazakistan,KZ
+52,Özbekistan,UZ
+53,Ukrayna,UA
+54,Polonya,PL
+55,Czech Republic,CZ
+56,Macaristan,HU
+57,Romania,RO
+58,Bulgaristan,BG
+59,Sırbistan,RS
+60,Hırvatistan,HR
+61,Slovenya,SI
+62,Slovakya,SK
+63,Litvanya,LT
+64,Latvanya,LV
+65,Estonya,EE
+66,Belarus,BY
+67,Gürcistan,GE
+68,Ermenistan,AM
+69,Azerbaycan,AZ
+70,Türkmenistan,TM
+71,Kırgızistan,KG
+72,Tayvan,TW
+73,Mongolistan,MN
+74,Nepal,NP
+75,Sri Lanka,LK
+76,Maldivler,MV
+77,Butan,BT
+78,Myanmar,MM
+79,Laos,LA
+80,Kamboçya,KH
+81,Kolombiya,CO
+82,Venezuela,VE
+83,Peru,PE
+84,Şili,CL
+85,Ekvador,EC
+86,Bolivya,BO
+87,Paraguay,PY
+88,Uruguay,UY
+89,Küba,CU
+90,Jamaika,JM
+91,Dominik Cumhuriyeti,DO
+92,Porto Riko,PR
+93,Kosta Rika,CR
+94,Panama,PA
+95,Honduras,HN
+96,El Salvador,SV
+97,Nicaragua,NI
+98,Guatemala,GT
+99,Belize,BZ
+100,Bahamalar,BS
+101,Haiti,HT
+102,Trinidad ve Tobago,TT
+103,Guyana,GY
+104,Surinam,SR
+105,Arjantin,AR
+106,Tunus,TN
+107,Libya,LY
+108,Sudan,SD
+109,Etiyopya,ET
+110,Somali,SO
+111,Uganda,UG
+112,Tanzanya,TZ
+113,Angola,AO
+114,Mozambik,MZ
+115,Zimbabve,ZW
+116,Zambiya,ZM
+117,Madagaskar,MG
+118,Mauritius,MU
+119,Seyşeller,SC
+120,Gana,GH
+121,Senegal,SN
+122,Mali,ML
+123,Burkina Faso,BF
+124,Nijer,NE
+125,Çad,TD
+126,Kamerun,CM
+127,Gabon,GA
+128,Kongo,CG
+129,Kongo Cumhuriyeti,CD
+130,Ruanda,RW
+131,Burundi,BI
+132,Malavi,MW
+133,Lesotho,LS
+134,Eswatini,SZ
+135,Botsvana,BW
+136,Namibya,NA
+137,Gambiya,GM
+138,Gine,GN
+139,Sierra Leone,SL
+140,Liberya,LR
+141,Fildişi Kökeni,CI
+142,Benin,BJ
+143,Togo,TG
+144,Orta Afrika Cumhuriyeti,CF
+145,Ekvatoryal Gine,GQ
+146,Djibouti,DJ
+147,Eritre,ER
+148,Mauritanya,MR
+149,Kıbrıs,CY
+150,Komorlar,KM
+151,São Tomé ve Príncipe,ST
+152,Samoa,WS
+153,Fiji,FJ
+154,Solomon Adaları,SB
+155,Vanuatu,VU
+156,Tonga,TO
+157,Kiribati,KI
+158,Marshall Adaları,MH
+159,Mikronezyal,FM
+160,Palau,PW
+161,Tuvalu,TV
+162,Nauru,NR
+163,Papua Yeni Gine,PG
+164,Timor-Leste,TL
+165,Brunei,BN
+166,Andorra,AD
+167,Lichtenstein,LI
+168,Monaco,MC
+169,San Marino,SM
+170,Vatikan,VA
+171,Malta,MT
+172,İzlanda,IS
+173,Lüksemburg,LU
+174,Kıbrıs,CY
+175,Arnavutluk,AL
+176,Kuzey Makedonya,MK
+177,Karadağ,ME
+178,Bosna-Hersek,BA
+179,Kosova,XK
+180,Moldova,MD
+181,Sırbistan,SY
+182,İordanya,JO
+183,Yemen,YE
+184,Oman,OM
+185,Katar,QA
+186,Bahreyn,BH
+187,Kuveyt,KW
+188,Filistin,PS
+189,Tayvan,TW
+190,Hong Kong,HK
+191,Makao,MO
+192,Kuzey Kore,KP
+193,Butan,BT
+194,Maldivler,MV
+195,Fransız Guyanası,GF
+196,Guadeloupe,GP
+197,Martinik,MQ
+198,Réunion,RE
+199,Mayotte,YT
+200,Feroe Adaları,FO
+201,Grönland,GL
+202,Aruba,AW
+203,Curaçao,CW
+204,Sint Maarten,SX
+205,Cayman Adaları,KY
+206,Bermuda,BM
+207,Falkland Adaları,FK
+208,Gibraltar,GI
+209,İngiliz Kıbrısleri,VG
+210,Amerikan Samoası,AS
+211,Guam,GU
+212,Kuzey Mariana Adaları,MP
+213,Cook Adaları,CK
+214,Niue,NU
+215,Tokelau,TK
+216,Wallis ve Futuna,WF
+217,Fransız Polinezyası,PF
+218,Yeni Kaledonya,NC
+219,Pitcairn Adaları,PN
+220,Anguilla,AI
+221,Montserrat,MS
+222,Saint Helena,SH
+223,Saint Pierre ve Miquelon,PM
+224,Svalbard ve Jan Mayen,SJ
+225,Åland Adaları,AX
+226,Antarctica,AQ
+227,Bouvet Adası,BV
+228,Heard ve McDonald Adaları,HM
+229,Fransız Güney Teritorileri,TF
+230,Güney Sudan,SS
+231,Sint Eustatius,BQ
+232,Bonaire,BQ
+233,Saint Barthélemy,BL
+234,Saint Martin,MF
+235,Batı Sahara,EH
+236,Somaliland,SO
+237,Transnistria,MD
+238,Abhazya,GE
+239,Güney Osetya,GE
+240,Arsakh,AZ
+241,Kuzey Kıbrıs,CY
+242,Sahra Wî Demokratîk Rûpelê,EH
+243,Tayvan,TW
+244,Kosova,XK
+245,Filistin,PS
+246,Vatikan,VA
+247,Sultanliği Milletleri Sınırı,XA
+248,Sealand,XS
+249,Sealand İmparatorluğu,XS
+250,Sealand İmparatorluğu,XS

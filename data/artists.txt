@@ -1,0 +1,239 @@
+Tarkan Tevetoğlu,Pop,1992-01-01,150,12,50000000,Türk pop müziğinin en başarılı sanatçılarından biri,1,artist1.jpg
+
+Sezen Aksu,Pop,1975-01-01,200,15,45000000,Türk pop müziğinin kraliçesi,1,artist2.jpg
+
+Kenan Doğulu,Pop,1993-01-01,120,10,30000000,Modern Türk pop müziğinin öncülerinden,1,artist3.jpg
+
+Hadise Hoşgör,Pop,2003-01-01,80,8,25000000,Belçika doğumlu Türk pop yıldızı,1,artist4.jpg
+
+Mabel Matiz,Alternative,2010-01-01,60,5,20000000,Alternatif müziğin yükselen yıldızı,1,artist5.jpg
+
+Murat Boz,Pop,2006-01-01,90,7,28000000,Modern pop müziğin başarılı temsilcisi,1,artist6.jpg
+
+Sertab Erener,Pop,1992-01-01,100,9,35000000,Eurovision birincisi pop yıldızı,1,artist7.jpg
+
+Türkü Türkmen,Folk,2015-01-01,40,4,15000000,Anadolu rock ve folk müziğin yeni sesi,1,artist8.jpg
+
+Göksel Kaya,Pop,1998-01-01,70,6,22000000,Pop müziğin güçlü sesi,1,artist9.jpg
+
+Athena,Rock,1993-01-01,110,11,32000000,Türk rock müziğinin efsane grubu,1,artist10.jpg
+
+Teoman Şahin,Rock,1996-01-01,130,13,38000000,Alternatif rock müziğin öncüsü,1,artist11.jpg
+
+Şebnem Ferahoğlu,Pop,2000-01-01,85,8,26000000,Pop müziğin başarılı temsilcisi,1,artist12.jpg
+
+Mor ve Özkan,Rock,1995-01-01,95,9,29000000,Türk rock müziğinin önemli gruplarından,1,artist13.jpg
+
+Manga,Rock,2002-01-01,105,10,33000000,Eurovision ikincisi rock grubu,1,artist14.jpg
+
+Duman,Rock,1999-01-01,115,11,36000000,Türk rock müziğinin efsane grubu,1,artist15.jpg
+
+MFÖ,Pop,1984-01-01,180,20,55000000,Türk pop müziğinin efsane grubu,1,artist16.jpg
+
+Barış Manço,Rock,1967-01-01,250,25,70000000,Türk müziğinin efsane ismi,1,artist17.jpg
+
+Cem Karaca,Rock,1967-01-01,200,22,65000000,Anadolu rock müziğin öncüsü,1,artist18.jpg
+
+Erkin Koray,Rock,1967-01-01,180,20,60000000,Türk rock müziğinin babası,1,artist19.jpg
+
+Moğollar,Rock,1967-01-01,170,19,58000000,Anadolu rock müziğin efsane grubu,1,artist20.jpg
+
+Edis,Pop,2014-01-01,50,4,18000000,Genç pop müziğin yükselen yıldızı,1,artist21.jpg
+
+Zeynep Bastık,Pop,2016-01-01,45,3,15000000,Modern popun genç temsilcisi,1,artist22.jpg
+
+Simge Sağın,Pop,2011-01-01,65,5,22000000,Pop müziğin güçlü kadın sesi,1,artist23.jpg
+
+Gülşen Bayraktar,Pop,2001-01-01,95,8,30000000,Pop müziğin enerjik yıldızı,1,artist24.jpg
+
+Hande Yener,Pop,2000-01-01,130,12,40000000,Pop müziğin divası,1,artist25.jpg
+
+Ajda Pekkan,Pop,1963-01-01,300,30,80000000,Süperstar,1,artist26.jpg
+
+Ebru Gündeş,Arabesque,1992-01-01,180,15,50000000,Arabesk müziğin kraliçesi,1,artist27.jpg
+
+İbrahim Tatlıses,Arabesque,1975-01-01,400,35,90000000,Arabesk müziğin efsanesi,1,artist28.jpg
+
+Ferdi Tayfur,Arabesque,1970-01-01,350,30,85000000,Arabesk müziğin ustası,1,artist29.jpg
+
+Müslüm Gürses,Arabesque,1969-01-01,500,40,100000000,Müslüm Baba,1,artist30.jpg
+
+Taylor Swift,Pop,2006-01-01,250,10,300000000,Global pop ikonu,2,artist31.jpg
+
+Ed Sheeran,Pop,2011-01-01,150,6,250000000,İngiliz pop-folk sanatçısı,3,artist32.jpg
+
+The Weeknd,R&B,2010-01-01,120,5,200000000,Modern R&B'nin öncüsü,4,artist33.jpg
+
+Drake,Hip-Hop,2006-01-01,200,8,280000000,Kanadalı rapçi ve şarkıcı,4,artist34.jpg
+
+Billie Eilish,Alternative,2016-01-01,60,2,150000000,Genç alternatif fenomen,2,artist35.jpg
+
+BTS,K-Pop,2013-01-01,180,7,350000000,Dünyaca ünlü K-Pop grubu,5,artist36.jpg
+
+Ariana Grande,Pop,2011-01-01,130,6,250000000,Pop müziğin güçlü sesi,2,artist37.jpg
+
+Dua Lipa,Pop,2015-01-01,80,3,180000000,İngiliz pop yıldızı,3,artist38.jpg
+
+Justin Bieber,Pop,2009-01-01,200,8,300000000,Kanadalı pop fenomeni,4,artist39.jpg
+
+Adele,Pop,2008-01-01,90,4,200000000,İngiliz soul-pop sanatçısı,3,artist40.jpg
+
+Coldplay,Rock,1996-01-01,180,9,250000000,İngiliz alternatif rock grubu,3,artist41.jpg
+
+Imagine Dragons,Rock,2008-01-01,120,5,200000000,Amerikan rock grubu,2,artist42.jpg
+
+Maroon 5,Pop,1994-01-01,150,7,220000000,Amerikan pop-rock grubu,2,artist43.jpg
+
+Bruno Mars,Pop,2010-01-01,100,4,200000000,Çok yönlü pop sanatçısı,2,artist44.jpg
+
+Rihanna,Pop,2005-01-01,180,8,300000000,Barbadoslu pop ikonu,6,artist45.jpg
+
+Beyoncé,Pop,1997-01-01,250,10,350000000,Amerikan pop ikonu,2,artist46.jpg
+
+Lady Gaga,Pop,2008-01-01,150,6,250000000,Pop müziğin sıradışı yıldızı,2,artist47.jpg
+
+Katy Perry,Pop,2001-01-01,200,7,280000000,Pop müziğin renkli yıldızı,2,artist48.jpg
+
+Shawn Mendes,Pop,2014-01-01,80,3,180000000,Kanadalı pop yıldızı,4,artist49.jpg
+
+Post Malone,Hip-Hop,2015-01-01,100,4,200000000,Amerikalı rapçi ve şarkıcı,2,artist50.jpg
+
+Eminem,Hip-Hop,1996-01-01,300,11,350000000,Rap müziğin efsanesi,2,artist51.jpg
+
+Kendrick Lamar,Hip-Hop,2004-01-01,150,5,200000000,Amerikalı rapçi,2,artist52.jpg
+
+Travis Scott,Hip-Hop,2012-01-01,90,3,180000000,Amerikalı rapçi,2,artist53.jpg
+
+Kanye West,Hip-Hop,2004-01-01,200,9,250000000,Amerikalı rapçi ve prodüktör,2,artist54.jpg
+
+Jay-Z,Hip-Hop,1996-01-01,250,13,300000000,Rap müziğin efsanesi,2,artist55.jpg
+
+Sia,Pop,1997-01-01,120,7,200000000,Avustralyalı pop sanatçısı,7,artist56.jpg
+
+Selena Gomez,Pop,2009-01-01,150,5,220000000,Amerikalı pop yıldızı,2,artist57.jpg
+
+Demi Lovato,Pop,2008-01-01,130,6,200000000,Amerikalı pop sanatçısı,2,artist58.jpg
+
+Halsey,Pop,2014-01-01,80,3,180000000,Amerikalı pop şarkıcısı,2,artist59.jpg
+
+Lizzo,Pop,2013-01-01,60,2,150000000,Amerikalı pop ve R&B sanatçısı,2,artist60.jpg
+
+Harry Styles,Pop,2010-01-01,70,2,180000000,İngiliz pop yıldızı,3,artist61.jpg
+
+One Direction,Pop,2010-01-01,150,5,250000000,İngiliz-İrlandalı pop grubu,3,artist62.jpg
+
+Blackpink,K-Pop,2016-01-01,80,2,200000000,Dünyaca ünlü K-Pop grubu,5,artist63.jpg
+
+EXO,K-Pop,2012-01-01,120,5,180000000,Güney Koreli pop grubu,5,artist64.jpg
+
+Twice,K-Pop,2015-01-01,100,4,150000000,Güney Koreli kız grubu,5,artist65.jpg
+
+Red Velvet,K-Pop,2014-01-01,90,3,140000000,Güney Koreli kız grubu,5,artist66.jpg
+
+NCT,K-Pop,2016-01-01,150,6,180000000,Güney Koreli erkek grubu,5,artist67.jpg
+
+BTS,K-Pop,2013-01-01,180,7,350000000,Dünyaca ünlü K-Pop grubu,5,artist68.jpg
+
+Stray Kids,K-Pop,2018-01-01,70,2,120000000,Güney Koreli erkek grubu,5,artist69.jpg
+
+Ateez,K-Pop,2018-01-01,60,2,100000000,Güney Koreli erkek grubu,5,artist70.jpg
+
+The Chainsmokers,EDM,2012-01-01,100,4,180000000,Amerikan DJ ikilisi,2,artist71.jpg
+
+Calvin Harris,EDM,2007-01-01,120,6,200000000,İskoç DJ ve prodüktör,3,artist72.jpg
+
+David Guetta,EDM,2002-01-01,150,8,250000000,Fransız DJ,8,artist73.jpg
+
+Martin Garrix,EDM,2012-01-01,80,3,150000000,Hollandalı DJ,9,artist74.jpg
+
+Marshmello,EDM,2015-01-01,90,3,180000000,Amerikan DJ,2,artist75.jpg
+
+Kygo,EDM,2013-01-01,70,2,150000000,Norveçli DJ,10,artist76.jpg
+
+Zedd,EDM,2012-01-01,80,3,160000000,Alman-Rus DJ,11,artist77.jpg
+
+Tiësto,EDM,1994-01-01,200,12,300000000,Hollandalı DJ,9,artist78.jpg
+
+Armin van Buuren,EDM,1996-01-01,180,10,280000000,Hollandalı DJ,9,artist79.jpg
+
+Hardwell,EDM,2009-01-01,100,5,180000000,Hollandalı DJ,9,artist80.jpg
+
+Metallica,Metal,1981-01-01,250,11,300000000,Amerikan metal grubu,2,artist81.jpg
+
+Iron Maiden,Metal,1975-01-01,220,16,280000000,İngiliz metal grubu,3,artist82.jpg
+
+Slipknot,Metal,1995-01-01,150,6,200000000,Amerikan metal grubu,2,artist83.jpg
+
+Megadeth,Metal,1983-01-01,180,15,250000000,Amerikan metal grubu,2,artist84.jpg
+
+Black Sabbath,Metal,1968-01-01,200,19,300000000,İngiliz metal grubu,3,artist85.jpg
+
+AC/DC,Rock,1973-01-01,230,18,350000000,Avustralyalı rock grubu,7,artist86.jpg
+
+Guns N' Roses,Rock,1985-01-01,180,6,300000000,Amerikan rock grubu,2,artist87.jpg
+
+Nirvana,Rock,1987-01-01,100,3,250000000,Grunge müziğin efsanesi,2,artist88.jpg
+
+Pearl Jam,Rock,1990-01-01,150,11,200000000,Amerikan rock grubu,2,artist89.jpg
+
+Foo Fighters,Rock,1994-01-01,180,10,220000000,Amerikan rock grubu,2,artist90.jpg
+
+Linkin Park,Rock,1996-01-01,200,7,250000000,Amerikan rock grubu,2,artist91.jpg
+
+Green Day,Rock,1987-01-01,180,13,230000000,Amerikan punk rock grubu,2,artist92.jpg
+
+Red Hot Chili Peppers,Rock,1983-01-01,220,12,280000000,Amerikan rock grubu,2,artist93.jpg
+
+The Rolling Stones,Rock,1962-01-01,350,30,500000000,İngiliz rock grubu,3,artist94.jpg
+
+The Beatles,Rock,1960-01-01,300,23,600000000,İngiliz rock grubu,3,artist95.jpg
+
+Led Zeppelin,Rock,1968-01-01,180,9,350000000,İngiliz rock grubu,3,artist96.jpg
+
+Pink Floyd,Rock,1965-01-01,200,15,400000000,İngiliz rock grubu,3,artist97.jpg
+
+Queen,Rock,1970-01-01,250,15,450000000,İngiliz rock grubu,3,artist98.jpg
+
+U2,Rock,1976-01-01,220,14,300000000,İrlandalı rock grubu,12,artist99.jpg
+
+Radiohead,Alternative,1985-01-01,150,9,250000000,İngiliz alternatif rock grubu,3,artist100.jpg
+
+Arctic Monkeys,Alternative,2002-01-01,120,6,200000000,İngiliz indie rock grubu,3,artist101.jpg
+
+The Killers,Alternative,2001-01-01,130,7,220000000,Amerikan rock grubu,2,artist102.jpg
+
+Muse,Alternative,1994-01-01,180,9,250000000,İngiliz rock grubu,3,artist103.jpg
+
+Twenty One Pilots,Alternative,2009-01-01,100,5,180000000,Amerikan ikili,2,artist104.jpg
+
+Fall Out Boy,Alternative,2001-01-01,150,7,200000000,Amerikan rock grubu,2,artist105.jpg
+
+My Chemical Romance,Alternative,2001-01-01,120,4,180000000,Amerikan rock grubu,2,artist106.jpg
+
+Panic! At The Disco,Alternative,2004-01-01,130,6,200000000,Amerikan rock grubu,2,artist107.jpg
+
+Paramore,Alternative,2004-01-01,110,6,190000000,Amerikan rock grubu,2,artist108.jpg
+
+Blink-182,Punk,1992-01-01,180,8,220000000,Amerikan punk rock grubu,2,artist109.jpg
+
+The Offspring,Punk,1984-01-01,150,10,200000000,Amerikan punk rock grubu,2,artist110.jpg
+
+Sum 41,Punk,1996-01-01,120,7,180000000,Kanadalı punk rock grubu,4,artist111.jpg
+
+Bad Religion,Punk,1979-01-01,200,17,150000000,Amerikan punk rock grubu,2,artist112.jpg
+
+NOFX,Punk,1983-01-01,180,14,120000000,Amerikan punk rock grubu,2,artist113.jpg
+
+Rancid,Punk,1991-01-01,150,10,100000000,Amerikan punk rock grubu,2,artist114.jpg
+
+Rise Against,Punk,1999-01-01,130,8,150000000,Amerikan punk rock grubu,2,artist115.jpg
+
+Pennywise,Punk,1988-01-01,120,12,90000000,Amerikan punk rock grubu,2,artist116.jpg
+
+Social Distortion,Punk,1978-01-01,140,11,110000000,Amerikan punk rock grubu,2,artist117.jpg
+
+The Distillers,Punk,1998-01-01,80,4,80000000,Amerikan punk rock grubu,2,artist118.jpg
+
+Dead Kennedys,Punk,1978-01-01,100,6,70000000,Amerikan punk rock grubu,2,artist119.jpg
+
+Sex Pistols,Punk,1975-01-01,50,1,60000000,İngiliz punk rock grubu,3,artist120.jpg
