@@ -1,0 +1,37 @@
+<!-- Author: Fatma Terzi (20190702041) -->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Fatma Terzi – Müzik Player Kurulum</title>
+  <style>
+    body {
+      background: #f4f6fb;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      display: flex; align-items: center; justify-content: center;
+      height: 100vh; margin: 0;
+    }
+    .box {
+      background: #fff; border-radius: 16px; padding: 40px 60px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.08); text-align: center;
+    }
+    button {
+      background: linear-gradient(90deg,#5b9df9 0%,#3b82f6 100%);
+      color:#fff; border:none; border-radius:6px;
+      padding:14px 36px; font-size:1.1rem; font-weight:600;
+      cursor:pointer; transition:background .2s;
+    }
+    button:hover {
+      background: linear-gradient(90deg,#3b82f6 0%,#2563eb 100%);
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>Fatma Terzi Müzik Player</h2>
+    <form action="install.php" method="post">
+      <button type="submit">Veritabanını Kur</button>
+    </form>
+  </div>
+</body>
+</html>

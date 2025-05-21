@@ -1,0 +1,18 @@
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.sublime-*
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.temp
+
+# XAMPP özel dosyaları
+xampp/ 

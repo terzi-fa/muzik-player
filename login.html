@@ -1,0 +1,31 @@
+<!-- Author: Fatma Terzi (20190702041) -->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Fatma Terzi – Giriş Yap</title>
+  <style>
+    body{font-family:Arial;background:#f5f5f5;}
+    .login-container{width:300px;margin:100px auto;padding:20px;background:#fff;border-radius:5px;box-shadow:0 0 10px rgba(0,0,0,0.1);}
+    .error{color:#dc3545;margin-bottom:15px;}
+    input{width:100%;padding:8px;margin:8px 0;box-sizing:border-box;}
+    button{background:#4CAF50;color:#fff;padding:10px;border:none;width:100%;cursor:pointer;}
+    button:hover{opacity:0.9;}
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <h2>Giriş Yap</h2>
+    <?php if(isset($_GET['error'])): ?>
+      <div class="error"><?= htmlspecialchars($_GET['error']) ?></div>
+    <?php endif; ?>
+    <form action="login.php" method="POST">
+      <label for="username">Kullanıcı Adı:</label>
+      <input type="text" id="username" name="username" required>
+      <label for="password">Şifre:</label>
+      <input type="password" id="password" name="password" required>
+      <button type="submit">Giriş Yap</button>
+    </form>
+  </div>
+</body>
+</html>
