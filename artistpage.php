@@ -26,13 +26,28 @@ $stmt->close();
 $cn = $mysqli->query("SELECT country_name FROM COUNTRY WHERE country_id=$cid")
       ->fetch_row()[0];
 
+// Takip durumunu kontrol et
+$is_following = $mysqli->prepare("SELECT 1 FROM FOLLOWS WHERE user_id=? AND artist_id=?");
+$is_following->bind_param("ii", $uid, $aid);
+$is_following->execute();
+$is_following->store_result();
+$is_following = $is_following->num_rows > 0;
+
 // Takip etme işlemi
 if($_SERVER['REQUEST_METHOD']=='POST' && isset($_POST['follow'])){
-  $mysqli->query("
-    INSERT IGNORE INTO FOLLOWS (user_id,artist_id,follow_date)
-    VALUES ($uid,$aid,CURDATE())
-  ");
-  $mysqli->query("UPDATE ARTISTS SET listeners=listeners+1 WHERE artist_id=$aid");
+  if(!$is_following) {
+    $insert = $mysqli->prepare("INSERT INTO FOLLOWS (user_id, artist_id, follow_date) VALUES (?, ?, CURDATE())");
+    $insert->bind_param("ii", $uid, $aid);
+    
+    if($insert->execute()) {
+      $update = $mysqli->prepare("UPDATE ARTISTS SET listeners=listeners+1 WHERE artist_id=?");
+      $update->bind_param("i", $aid);
+      $update->execute();
+      $update->close();
+      $is_following = true;
+    }
+    $insert->close();
+  }
 }
 
 // Son 5 albüm
@@ -72,14 +87,18 @@ $songs = $mysqli->query("
     <b>Müzik:</b> <?= $tnm ?> &nbsp; <b>Albüm:</b> <?= $ta ?><br>
     <b>Dinleyici:</b> <?= $lst ?><br>
     <b>Biyo:</b> <?= nl2br(htmlspecialchars($bio)) ?><br><br>
-    <form method="post"><button name="follow">Takip Et</button></form>
+    <form method="post">
+      <button name="follow" class="follow-button <?= $is_following ? 'following' : '' ?>">
+        <?= $is_following ? 'Takip Ediliyor' : 'Takip Et' ?>
+      </button>
+    </form>
     <hr>
     <h3>Son 5 Albüm</h3>
     <ul>
       <?php while($al=$albums->fetch_assoc()): ?>
         <li>
           <img src="<?= htmlspecialchars($al['image']) ?>" alt="" width="40" height="40">
-          <a href="currentmusic.php?id=<?= $al['album_id'] ?>">
+          <a href="albumpage.php?id=<?= $al['album_id'] ?>">
             <?= htmlspecialchars($al['name']) ?> (<?= $al['release_date'] ?>)
           </a>
         </li>
